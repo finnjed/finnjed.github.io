@@ -32,8 +32,8 @@ L.geoJSON(buildings, {
 
 var myStyle2 = {
     "color": "#F39189",
-    "weight": 0,
-    "opacity": 0.4
+    "weight": 1,
+    "opacity": 1
 };
 
 L.geoJSON(bcKMLTest, {
@@ -43,19 +43,5 @@ L.geoJSON(bcKMLTest, {
 
 //same aber mit style für kreise
 
-
 L.geoJSON(buildings).addTo(map);
 
-
-bcLibrary.bindPopup("<b>I'm the Boston College Library</b>");
-
-
-function popUp(feature, layer) {
-    var out = [];
-		if (feature.properties){
-		     out.push("The name of location is is: " + feature.properties.name);
-		     out.push("The description of the location is:" + feature.properties.description);
-		     out.push("Have a nice day!");
-		}
-		layer.bindPopup(out.join("<br />"));
-}
