@@ -32,7 +32,7 @@ L.geoJSON(buildings, {
 
 var myStyle2 = {
     "color": "#F39189",
-    "weight": 1,
+    "weight": 10,
     "opacity": 1
 };
 
