@@ -30,17 +30,6 @@ L.geoJSON(buildings, {
     style: myStyle
 }).addTo(map);
 
-var myStyle2 = {
-    "color": "#F39189",
-    "weight": 1,
-    "opacity": 1
-};
-
-L.geoJSON(bcKMLTest, {
-    style: myStyle2
-}).addTo(map);
-
-
 //same aber mit style für kreise
 
 L.geoJSON(buildings).addTo(map);
