@@ -20,7 +20,7 @@ L.geoJSON(bcKMLTest, {
 
 // fügt den style hinzu
 var myStyle = {
-    "color": "#046582",
+    "color": "#FFBC42",
     "weight": 10,
     "opacity": 0.65
 };
