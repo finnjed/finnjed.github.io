@@ -1,5 +1,5 @@
 var mapOptions = {
- center: [49.9295, 8.1562], 
+ center: [48.2203, 16.3799], 
  zoom: 16 ,
  maxZoom : 24, 
  }
