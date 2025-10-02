@@ -1,19 +1,19 @@
 {
-  "cover": "cover.JPG",
+  "cover": "cover.jpg",
   "hovtitle": "Befragung Mietrad",
   "slides": [
     {
-      "file": "1.JPG",
+      "file": "1.jpg",
       "title": "Kasten 1 Folie 1",
       "desc": "Beschreibung Folie 1"
     },
     {
-      "file": "2.JPG",
+      "file": "2.jpg",
       "title": "Kasten 1 Folie 2",
       "desc": "Beschreibung Folie 2"
     },
     {
-      "file": "3.JPG",
+      "file": "3.jpg",
       "title": "Titel Folie 3",
       "desc": "Beschreibung Folie 3"
     }
