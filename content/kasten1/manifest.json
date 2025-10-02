@@ -1,19 +1,19 @@
 {
-  "cover": "cover.JPG",
-  "hovtitle": "Projekt 2",
+  "cover": "cover.jpg",
+  "hovtitle": "Projekt 1",
   "slides": [
     {
-      "file": "1.JPG",
-      "title": "kasten 2 Folie 1",
+      "file": "1.jpg",
+      "title": "Titel Folie 1",
       "desc": "Beschreibung Folie 1"
     },
     {
-      "file": "2.JPG",
+      "file": "2.jpg",
       "title": "Titel Folie 2",
       "desc": "Beschreibung Folie 2"
     },
     {
-      "file": "3.JPG",
+      "file": "3.jpg",
       "title": "Titel Folie 3",
       "desc": "Beschreibung Folie 3"
     }
