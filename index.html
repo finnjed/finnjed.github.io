@@ -1,24 +1,30 @@
-<!doctype html>
-<html lang="en">
-
+<!DOCTYPE html>
+<html lang="de">
 <head>
-  <meta charset="utf-8">
-  <title>Vorschläge Stadtgestaltung Geisenheim</title>
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
- integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
- crossorigin=""/>
-   
- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-   crossorigin=""></script>
- <script src="./bcKMLTest.js"></script>
- </head>
-   
+  <meta charset="UTF-8">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+</head>
 <body>
-	<div id = "map" style = "width:100vw; height:98vh;"></div>
-	<script type="text/javascript" src="testMap.js"></script> 
-</body>
+  <header>
+    <h1>Portfolio</h1>
+  </header>
+  <main id="gallery"></main>
 
+  <!-- Lightbox -->
+  <div id="lightbox" class="hidden">
+    <div class="lightbox-content">
+      <button id="closeBtn">&times;</button>
+      <img id="lightbox-img" src="" alt="">
+      <div class="lightbox-text">
+        <h2 id="lightbox-title"></h2>
+        <p id="lightbox-desc"></p>
+      </div>
+      <button id="prevBtn">&#10094;</button>
+      <button id="nextBtn">&#10095;</button>
+    </div>
+  </div>
+</body>
 </html>
