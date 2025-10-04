@@ -116,3 +116,10 @@ h1 {
   right: -3rem;
   transform: translateY(-50%);
 }
+
+@media (max-width: 600px) {
+  #gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
