@@ -26,6 +26,7 @@ async function loadGallery() {
     `;
     div.onclick = () => openLightbox(data, kasten);
     gallery.appendChild(div);
+    console.log("geladen:", kasten, data);
   }
 }
 
