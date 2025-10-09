@@ -91,7 +91,16 @@ h1 {
   color: #fff;
 }
 
-#closeBtn, #prevBtn, #nextBtn {
+#closeBtn {
+  position: absolute;
+  background: none;
+  border: none;
+  color: ##D70040;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+#prevBtn, #nextBtn {
   position: absolute;
   background: none;
   border: none;
