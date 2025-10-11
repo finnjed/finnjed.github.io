@@ -59,3 +59,14 @@ nextBtn.onclick = () => {
 };
 
 loadGallery();
+
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'ArrowLeft') {
+    const prevBtn = document.getElementById('prevBtn');
+    if (prevBtn) prevBtn.click();
+  }
+  if (event.key === 'ArrowRight') {
+    const nextBtn = document.getElementById('nextBtn');
+    if (nextBtn) nextBtn.click();
+  }
+});
