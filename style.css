@@ -34,6 +34,8 @@ h2 {
   background: #ddd;
   cursor: pointer;
   overflow: hidden;
+  transition: transform 0.3s ease; 
+
 }
 
 .kasten img {
@@ -41,6 +43,10 @@ h2 {
   height: 100%;
   object-fit: contain;
   display: block;
+}
+
+.kasten:hover {
+  transform: scale(1.05);
 }
 
 .kasten .hover-text {
