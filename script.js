@@ -68,5 +68,8 @@ document.addEventListener('keydown', function(event) {
   if (event.key === 'ArrowRight') {
     const nextBtn = document.getElementById('nextBtn');
     if (nextBtn) nextBtn.click();
+  if (event.key === 'Escape') {
+    const closeBtn = document.getElementById('closeBtn');
+    if (closeBtn) closeBtn.click();
   }
 });
