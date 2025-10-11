@@ -16,6 +16,11 @@
       "file": "3.JPG",
       "title": "Titel Folie 3",
       "desc": "Beschreibung Folie 3"
+    },
+    {
+      "file": "test.GIF",
+      "title": "GIF",
+      "desc": "GIF"
     }
   ]
 }
