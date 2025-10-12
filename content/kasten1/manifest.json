@@ -1,26 +1,26 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Auswertung zum Einfluss von Haltestellen auf das Verhalten Mietrad-Nutzender / Visualisierungen zur nextbike-Nutzung in Leipzig",
+  "hovtitle": "Auswertung zum Einfluss von Haltestellen auf das Verhalten Mietrad-Nutzender über nextbike-API / Animation zu Ausleihvorgängen",
   "slides": [
     {
-      "file": "1.JPG",
+      "file": "1.jpg",
       "title": "kasten 2 Folie 1",
       "desc": "Beschreibung Folie 1"
     },
     {
       "file": "2.JPG",
-      "title": "Titel Folie 2",
-      "desc": "Beschreibung Folie 2"
+      "title": "Auswertung Erreichbarkeiten und Ausleihen",
+      "desc": ""
     },
     {
-      "file": "3.JPG",
+      "file": "2.gif",
       "title": "Titel Folie 3",
       "desc": "Beschreibung Folie 3"
     },
     {
       "file": "test.gif",
       "title": "Leihradaktivität pro Rasterzelle, pro Stunde",
-      "desc": "Hier wird die Leihradaktivität pro Rasterzelle, pro Stunde dargestellt. Es werden nur \n Bewegungen über 0,5 Meter gezählt, die Rasterzellen sind 500 x 500 Meter groß. "
+      "desc": "Hier wird die Leihradaktivität pro Rasterzelle, pro Stunde dargestellt."
     }
   ]
 }
