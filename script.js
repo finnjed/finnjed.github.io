@@ -11,7 +11,7 @@ let currentSlides = [];
 let currentIndex = 0;
 
 // Liste der Kasten-Ordner hier eintragen
-const kastens = ["kasten1","kasten2","kasten3"];
+const kastens = ["kasten1","kasten2","kasten3","kasten4","kasten5","kasten6"];
 
 async function loadGallery() {
   for (let kasten of kastens) {

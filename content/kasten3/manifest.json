@@ -1,11 +1,11 @@
 {
-  "cover": "cover.JPG",
-  "hovtitle": "Projekt 2",
+  "cover": "cover.png",
+  "hovtitle": "Erreichbarkeits- und Wohnstandortanalyse im Rahmen des betrieblichen Mobilitätsmanagements für die Stadt Wiesbaden",
   "slides": [
     {
       "file": "1.JPG",
       "title": "Das Datenflussdiagramm der Analysen nach ISO 5807.",
-      "desc": "GOAT wurde hier zur Validierung genutzt. <br> Auszug aus der Präsentation."
+      "desc": "GOAT wurde hier zur Validierung genutzt. Auszug aus der Präsentation."
     },
     {
       "file": "2.JPG",
