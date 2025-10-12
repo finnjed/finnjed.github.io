@@ -1,6 +1,6 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Projekt 1",
+  "hovtitle": "Auswertung zum Einfluss von Haltestellen auf das Verhalten Mietrad-Nutzender / Visualisierungen zur nextbike-Nutzung in Leipzig",
   "slides": [
     {
       "file": "1.JPG",
@@ -20,7 +20,7 @@
     {
       "file": "test.gif",
       "title": "Leihradaktivität pro Rasterzelle, pro Stunde",
-      "desc": "Hier wird die Leihradaktivität pro Rasterzelle, pro Stunde dargestellt. Es werden nur Bewegungen über 0,5 Meter gezählt, die Rasterzellen sind 500 x 500 Meter groß. "
+      "desc": "Hier wird die Leihradaktivität pro Rasterzelle, pro Stunde dargestellt. Es werden nur \n Bewegungen über 0,5 Meter gezählt, die Rasterzellen sind 500 x 500 Meter groß. "
     }
   ]
 }
