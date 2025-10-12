@@ -1,10 +1,10 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Auswertung zum Einfluss von Haltestellen auf das Verhalten Mietrad-Nutzender über nextbike-API / Animation zu Ausleihvorgängen",
+  "hovtitle": "Auswertung zum Einfluss von Haltestellen auf das Verhalten Mietrad-Nutzender über die nextbike-API / Animation zu Ausleihvorgängen",
   "slides": [
     {
-      "file": "1.JPG",
-      "title": "Fazit und Beantwortung der Frage",
+      "file": "2.gif",
+      "title": "Präsentation (GIF)",
       "desc": ""
     },
     {
@@ -13,8 +13,8 @@
       "desc": ""
     },
     {
-      "file": "2.gif",
-      "title": "Präsentation (GIF)",
+      "file": "1.JPG",
+      "title": "Fazit und Beantwortung der Frage",
       "desc": ""
     },
     {
