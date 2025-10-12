@@ -1,21 +1,21 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Projekt 2",
+  "hovtitle": "Erhebung und bivariate Auswertung der Mietrad-Nutzung Studierender zur Vertragsschließung zwischen nextbike und dem Studierendenausschuss der Hochschule RheinMain",
   "slides": [
     {
-      "file": "1.JPG",
-      "title": "kasten 2 Folie 1",
-      "desc": "Beschreibung Folie 1"
+      "file": "1.jpg",
+      "title": "Räumliche Verteilung der Teilnehmenden der Umfrage",
+      "desc": "Zur besseren Einordnung der Ergebnisse wird die räumliche Verteilung dargestellt"
     },
     {
       "file": "2.JPG",
-      "title": "Titel Folie 2",
-      "desc": "Beschreibung Folie 2"
+      "title": "Abfrageformular",
+      "desc": "aufgrund der Praktikabilität wurde Google Forms genutzt"
     },
     {
       "file": "3.JPG",
-      "title": "Titel Folie 3",
-      "desc": "Beschreibung Folie 3"
+      "title": "Darstellung des Stationsbedarfs",
+      "desc": "z.B. zur Rechtfertigung neuer Stationsinfrastruktur/Stellplätze ggü. der Stadt"
     }
   ]
 }
