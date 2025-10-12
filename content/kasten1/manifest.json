@@ -19,8 +19,8 @@
     },
     {
       "file": "test.gif",
-      "title": "1",
-      "desc": "2"
+      "title": "Leihradaktivität pro Rasterzelle, pro Stunde",
+      "desc": "Hier wird die Leihradaktivität pro Rasterzelle, pro Stunde dargestellt. Es werden nur Bewegungen über 0,5 Meter gezählt, die Rasterzellen sind 500 x 500 Meter groß. "
     }
   ]
 }

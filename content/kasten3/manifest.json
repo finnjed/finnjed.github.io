@@ -4,12 +4,12 @@
   "slides": [
     {
       "file": "1.JPG",
-      "title": "kasten 2 Folie 1",
-      "desc": "Beschreibung Folie 1"
+      "title": "Das Datenflussdiagramm der Analysen nach ISO 5807.",
+      "desc": "GOAT wurde hier zur Validierung genutzt und Erfahrung mit ESRI LAT gesammelt.\n Nicht angegeben ist die Nutzung von Excel zur Datenvisualisierung."
     },
     {
       "file": "2.JPG",
-      "title": "kasten 3 folie 2",
+      "title": "",
       "desc":"Beschreibung Folie 3"
     },
     {
