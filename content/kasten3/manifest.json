@@ -5,22 +5,22 @@
     {
       "file": "1.JPG",
       "title": "Das Datenflussdiagramm der Analysen nach ISO 5807.",
-      "desc": "GOAT wurde hier zur Validierung genutzt. <br> Nicht angegeben ist die Nutzung von Excel zur Datenvisualisierung.\n Auszug aus der Präsentation"
+      "desc": "GOAT wurde hier zur Validierung genutzt. <br> Auszug aus der Präsentation."
     },
     {
       "file": "2.JPG",
-      "title": "",
-      "desc":"Beschreibung Folie 3"
+      "title": "Ergebnisse der Erreichbarkeitsanalyse",
+      "desc":"Werte des ÖVs wurden über die HAFAS-Schnittstelle des RMVs abgerufen."
     },
     {
       "file":"3.JPG",
-      "title":"kasten 3 folie 3",
-      "desc":"Beschreibung Folie 3"
+      "title":"Erreichbarkeitsanalyse im eigenen Netzmodell",
+      "desc":"Dabei wurde die erreichbare Gesamtbevölkerung als Vergleichsgröße genutzt."
     },
     {
       "file":"4.JPG",
-      "title":"kasten 3 folie 3",
-      "desc":"Beschreibung Folie 3"
+      "title":"Reisezeitverhältnis ÖV/MIV",
+      "desc":"Die Bewertung wurde aus Best Practice-Studien und der Raumstruktur abgeleitet."
     }
   ]
 }
