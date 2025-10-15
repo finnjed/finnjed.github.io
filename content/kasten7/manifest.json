@@ -1,15 +1,15 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Statistische Auswertung der Studie Mobilität in Deutschland",
+  "hovtitle": "Kommunikation Mobilitätsangebote AStA / 3D-Visualisierung Beispielprojekt",
   "slides": [
     {
-      "file": "1.JPG",
-      "title": "Ergebnistabelle der linearen Regressionsanalyse",
+      "file": "1.gif",
+      "title": "Werbeclip für",
       "desc": "Ziel der Untersuchung war es, den Einfluss verschiedener Variablen auf die abhängige Variable Reisezeit zu untersuchen."
     },
     {
       "file": "2.png",
-      "title": "Aufbau des Mobilitätskonzeptes",
+      "title": "Werbeposter nextbike",
       "desc": ""
     },
     {

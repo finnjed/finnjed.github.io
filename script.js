@@ -11,7 +11,7 @@ let currentSlides = [];
 let currentIndex = 0;
 
 // Liste der Kasten-Ordner hier eintragen
-const kastens = ["kasten1","kasten2","kasten3","kasten4","kasten5","kasten6"];
+const kastens = ["kasten1","kasten2","kasten3","kasten5","kasten6","kasten7"];
 
 async function loadGallery() {
   for (let kasten of kastens) {
@@ -43,9 +43,36 @@ function openLightbox(data, kasten) {
 
 function showSlide(index) {
   const slide = currentSlides[index];
-  lightboxImg.src = slide.src;
+  const isPDF = slide.src.toLowerCase().endsWith(".pdf");
+
+  // Leeren, bevor neues Element eingefügt wird
+  const contentArea = document.querySelector(".lightbox-content");
+  const oldMedia = document.getElementById("lightbox-media");
+  if (oldMedia) oldMedia.remove();
+
+  let mediaElement;
+  if (isPDF) {
+    mediaElement = document.createElement("iframe");
+    mediaElement.src = slide.src;
+    mediaElement.style.width = "100%";
+    mediaElement.style.height = "60vh";
+    mediaElement.style.border = "none";
+  } else {
+    mediaElement = document.createElement("img");
+    mediaElement.src = slide.src;
+    mediaElement.style.maxWidth = "100%";
+    mediaElement.style.maxHeight = "60vh";
+    mediaElement.style.objectFit = "contain";
+  }
+  mediaElement.id = "lightbox-media";
+
+  // Titel und Beschreibung aktualisieren
   lightboxTitle.textContent = slide.title;
   lightboxDesc.textContent = slide.desc;
+
+  // Vor Textbereich einfügen
+  const textArea = document.querySelector(".lightbox-text");
+  contentArea.insertBefore(mediaElement, textArea);
 }
 
 closeBtn.onclick = () => lightbox.classList.add("hidden");
