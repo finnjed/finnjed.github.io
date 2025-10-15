@@ -1,21 +1,21 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Erhebung und bivariate Auswertung der Mietrad-Nutzung Studierender in Wiesbaden",
+  "hovtitle": "Erstellung eines Mobilitätskonzepts für eine Neubausiedlung",
   "slides": [
     {
-      "file": "1.JPG",
-      "title": "Räumliche Verteilung der Teilnehmenden der Umfrage",
-      "desc": "Zur besseren Einordnung der Ergebnisse wird die räumliche Verteilung dargestellt"
+      "file": "1.pdf",
+      "title": "",
+      "desc": "."
     },
     {
-      "file": "2.JPG",
-      "title": "Abfrageformular",
-      "desc": "aufgrund der Praktikabilität wurde Google Forms genutzt"
+      "file": "2.png",
+      "title": "Inhalte des Mobilitätskonzeptes",
+      "desc": "gemäß der Anforderungen der Projektarbeit"
     },
     {
       "file": "3.JPG",
-      "title": "Darstellung des Stationsbedarfs",
-      "desc": "z.B. zur Rechtfertigung neuer Stationsinfrastruktur/Stellplätze ggü. der Stadt"
+      "title": "Zielhierarchie",
+      "desc": "Diese dient der Strukturierung der Ziele und Maßnahmen des Mobilitätskonzeptes."
     }
   ]
 }

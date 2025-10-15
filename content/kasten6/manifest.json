@@ -1,0 +1,21 @@
+{
+  "cover": "cover.JPG",
+  "hovtitle": "Statistische Auswertung der Studie Mobilität in Deutschland",
+  "slides": [
+    {
+      "file": "1.pdf",
+      "title": "Ergebnistabelle der linearen Regressionsanalyse",
+      "desc": "Ziel der Untersuchung war es, den Einfluss verschiedener Variablen auf die abhängige Variable Reisezeit zu untersuchen."
+    },
+    {
+      "file": "2.png",
+      "title": "Aufbau des Mobilitätskonzeptes",
+      "desc": ""
+    },
+    {
+      "file": "3.JPG",
+      "title": "",
+      "desc": ""
+    }
+  ]
+}
