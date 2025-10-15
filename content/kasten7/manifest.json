@@ -4,18 +4,13 @@
   "slides": [
     {
       "file": "1.gif",
-      "title": "Werbeclip für",
-      "desc": "Ziel der Untersuchung war es, den Einfluss verschiedener Variablen auf die abhängige Variable Reisezeit zu untersuchen."
+      "title": "Werbeclip für das Deutschlandsemesterticket",
+      "desc": "Dieser wurde in ca. 10h v.a. in blender erstellt."
     },
     {
       "file": "2.png",
       "title": "Werbeposter nextbike",
-      "desc": ""
-    },
-    {
-      "file": "3.JPG",
-      "title": "",
-      "desc": ""
+      "desc": "Erstellt in Inkscape"
     }
   ]
 }

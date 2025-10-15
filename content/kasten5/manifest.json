@@ -1,21 +1,26 @@
 {
   "cover": "cover.JPG",
-  "hovtitle": "Erstellung eines Mobilitätskonzepts für eine Neubausiedlung",
+  "hovtitle": "Erstellung eines Mobilitätskonzepts für eine Neubausiedlung im Wiesbadener Süden",
   "slides": [
     {
-      "file": "1.pdf",
-      "title": "",
-      "desc": "."
-    },
-    {
-      "file": "2.png",
-      "title": "Inhalte des Mobilitätskonzeptes",
-      "desc": "gemäß der Anforderungen der Projektarbeit"
+      "file": "2.jpg",
+      "title": "Aufbau der Projektarbeit",
+      "desc": "Hier wurden Projektmanagement und Inhalte des Mobilitätskonzepts festgehalten"
     },
     {
       "file": "3.JPG",
       "title": "Zielhierarchie",
       "desc": "Diese dient der Strukturierung der Ziele und Maßnahmen des Mobilitätskonzeptes."
+    },
+    {
+      "file": "4.JPG",
+      "title": "Maßnahmenbündel",
+      "desc": ""
+    },
+    {
+      "file": "1.pdf",
+      "title": "Kurzfassung des Mobilitätskonzeptes",
+      "desc": "Die Arbeit entstand Semesterbegleitend"
     }
   ]
 }
