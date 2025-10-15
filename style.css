@@ -1,3 +1,9 @@
+.kasten {
+  min-height: 200px;
+  background-color: rgba(255,0,0,0.1);
+  border: 1px solid red;
+}
+
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
