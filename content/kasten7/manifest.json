@@ -1,5 +1,5 @@
 {
-  "cover": "cover.JPG",
+  "cover": "cover.png",
   "hovtitle": "Kommunikation Mobilitätsangebote AStA / 3D-Visualisierung Beispielprojekt",
   "slides": [
     {
@@ -10,6 +10,11 @@
     {
       "file": "2.png",
       "title": "Werbeposter nextbike",
+      "desc": "Erstellt in Inkscape"
+    },
+    {
+      "file": "3.png",
+      "title": "Werbeposter Deutschlandsemesterticket",
       "desc": "Erstellt in Inkscape"
     }
   ]
