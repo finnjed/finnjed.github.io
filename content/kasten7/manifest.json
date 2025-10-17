@@ -1,6 +1,6 @@
 {
   "cover": "cover.png",
-  "hovtitle": "Kommunikation Mobilitätsangebote AStA / 3D-Visualisierung Beispielprojekt",
+  "hovtitle": "Kommunikation Mobilitätsangebote / 3D-Visualisierung Beispielprojekt",
   "slides": [
     {
       "file": "1.gif",
@@ -20,7 +20,7 @@
     {
       "file": "4.gif",
       "title": "Umgestaltung einer Radverkehrsachse",
-      "desc": "Nur zu Vorstellungszwecken."
+      "desc": "Nur zu Veranschaulichungszwecken."
     }
   ]
 }
