@@ -31,11 +31,15 @@ async function loadGallery() {
 }
 
 function openLightbox(data, kasten) {
-  currentSlides = data.slides.map(slide => ({
-    src: `content/${kasten}/${slide.file}`,
-    title: slide.title,
-    desc: slide.desc
-  }));
+  currentSlides = data.slides.map(slide => {
+    const file = slide.file || "";
+    const isUrl = /^(https?:)?\/\//i.test(file) || file.startsWith('/');
+    return {
+      src: isUrl ? file : `content/${kasten}/${file}`,
+      title: slide.title,
+      desc: slide.desc
+    };
+  });
   currentIndex = 0;
   showSlide(currentIndex);
   lightbox.classList.remove("hidden");
@@ -43,7 +47,10 @@ function openLightbox(data, kasten) {
 
 function showSlide(index) {
   const slide = currentSlides[index];
-  const isPDF = slide.src.toLowerCase().endsWith(".pdf");
+  // Erkennen, ob es sich um ein Bild, PDF oder eine andere Ressource handelt
+  const src = slide.src || "";
+  const isPDF = /\.pdf($|\?)/i.test(src);
+  const isImage = /\.(png|jpe?g|gif|webp|svg)($|\?)/i.test(src);
 
   // Leeren, bevor neues Element eingefügt wird
   const contentArea = document.querySelector(".lightbox-content");
@@ -51,18 +58,20 @@ function showSlide(index) {
   if (oldMedia) oldMedia.remove();
 
   let mediaElement;
-  if (isPDF) {
-    mediaElement = document.createElement("iframe");
-    mediaElement.src = slide.src;
-    mediaElement.style.width = "100%";
-    mediaElement.style.height = "60vh";
-    mediaElement.style.border = "none";
-  } else {
+  if (isImage) {
     mediaElement = document.createElement("img");
-    mediaElement.src = slide.src;
+    mediaElement.src = src;
     mediaElement.style.maxWidth = "100%";
     mediaElement.style.maxHeight = "60vh";
     mediaElement.style.objectFit = "contain";
+  } else {
+    // Für PDFs oder beliebige URLs/Websites verwenden wir ein iframe
+    mediaElement = document.createElement("iframe");
+    mediaElement.src = src;
+    mediaElement.style.width = "100%";
+    mediaElement.style.height = "60vh";
+    mediaElement.style.border = "none";
+    mediaElement.setAttribute('loading', 'lazy');
   }
   mediaElement.id = "lightbox-media";
 

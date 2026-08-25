@@ -1,0 +1,31 @@
+{
+  "cover": "cover.png",
+  "hovtitle": "Erstellung eines Quaternärbaums zur Anonymisierung von personenbezogenen Daten",
+  "slides": [
+    {
+      "file": "1.gif",
+      "title": "Erstellung des Quaternärbaums ",
+      "desc": "mit Schwellwert von 10 zur Anonymisierung der personenbezogenen Daten in python.\n Grundlagendaten sind unter anderem die Zensusdaten.\nScript wird auf https://github.com/finnjed veröffentlicht."
+    },
+    {
+      "file": "2.png",
+      "title": "Nachträgliches herausfiltern anhand von Merkmalen aus Zensusdaten",
+      "desc": "(rot = HH-Größe, blau Einwohner/100x100 Kachel): Graue Zellen wurden aufgrund von\n weniger als 5 Haushalten herausgefiltert."
+    },
+    {
+      "file": "https://wohnstandortabfrage.github.io/deckgl/",
+      "title": "Erzeugen von mbtiles (raster, vektor) für eine erste Version",
+      "desc": "Diese Version lädt sehr langsam, weshalb ab hier deckgl verwendet wurde"
+    },
+    {
+      "file": "5.png",
+      "title": "per Skript in Limesurvey eingebettete interaktive Karte",
+      "desc": ""
+    },
+    {
+      "file": "https://wohnstandortabfrage.github.io/deckgl/",
+      "title": "Interaktive Karte",
+      "desc": "wohnstandortabfrage.github.io/deckgl"
+    }
+  ]
+}
