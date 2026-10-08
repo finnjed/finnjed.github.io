@@ -11,7 +11,7 @@ let currentSlides = [];
 let currentIndex = 0;
 
 // Liste der Kasten-Ordner hier eintragen
-const kastens = ["kasten1","kasten2","kasten3","kasten5","kasten7"];
+const kastens = ["kasten1", "kasten2", "kasten3", "kasten5", "kasten7", "kasten9", "kasten10"];
 
 async function loadGallery() {
   for (let kasten of kastens) {
@@ -33,7 +33,7 @@ async function loadGallery() {
 function openLightbox(data, kasten) {
   currentSlides = data.slides.map(slide => {
     const file = slide.file || "";
-    const isUrl = /^(https?:)?\/\//i.test(file) || file.startsWith('/');
+    const isUrl = /^(https?:)?\/\//i.test(file) || file.startsWith("/");
     return {
       src: isUrl ? file : `content/${kasten}/${file}`,
       title: slide.title,
@@ -47,18 +47,42 @@ function openLightbox(data, kasten) {
 
 function showSlide(index) {
   const slide = currentSlides[index];
-  // Erkennen, ob es sich um ein Bild, PDF oder eine andere Ressource handelt
   const src = slide.src || "";
-  const isPDF = /\.pdf($|\?)/i.test(src);
+  const isVideo = /\.mp4($|\?)/i.test(src);
   const isImage = /\.(png|jpe?g|gif|webp|svg)($|\?)/i.test(src);
 
-  // Leeren, bevor neues Element eingefügt wird
   const contentArea = document.querySelector(".lightbox-content");
   const oldMedia = document.getElementById("lightbox-media");
   if (oldMedia) oldMedia.remove();
 
   let mediaElement;
-  if (isImage) {
+
+  if (isVideo) {
+    mediaElement = document.createElement("video");
+    mediaElement.src = src;
+    mediaElement.autoplay = true;
+    mediaElement.loop = true;
+    mediaElement.muted = true;
+    mediaElement.playsInline = true;
+    mediaElement.preload = "auto";
+    mediaElement.controls = false;
+    mediaElement.disablePictureInPicture = true;
+    mediaElement.setAttribute("controlslist", "nodownload nofullscreen noremoteplayback");
+    mediaElement.setAttribute("aria-label", `${slide.title}: per Klick pausieren oder fortsetzen`);
+    mediaElement.style.maxWidth = "100%";
+    mediaElement.style.maxHeight = "60vh";
+    mediaElement.style.objectFit = "contain";
+    mediaElement.style.cursor = "pointer";
+
+    mediaElement.addEventListener("click", event => {
+      event.stopPropagation();
+      if (mediaElement.paused) {
+        mediaElement.play().catch(() => {});
+      } else {
+        mediaElement.pause();
+      }
+    });
+  } else if (isImage) {
     mediaElement = document.createElement("img");
     mediaElement.src = src;
     mediaElement.style.maxWidth = "100%";
@@ -71,15 +95,14 @@ function showSlide(index) {
     mediaElement.style.width = "100%";
     mediaElement.style.height = "60vh";
     mediaElement.style.border = "none";
-    mediaElement.setAttribute('loading', 'lazy');
+    mediaElement.setAttribute("loading", "lazy");
   }
+
   mediaElement.id = "lightbox-media";
 
-  // Titel und Beschreibung aktualisieren
   lightboxTitle.textContent = slide.title;
   lightboxDesc.textContent = slide.desc;
 
-  // Vor Textbereich einfügen
   const textArea = document.querySelector(".lightbox-text");
   contentArea.insertBefore(mediaElement, textArea);
 }
@@ -96,17 +119,17 @@ nextBtn.onclick = () => {
 
 loadGallery();
 
-document.addEventListener('keydown', function(event) {
-  if (event.key === 'ArrowLeft') {
-    const prevBtn = document.getElementById('prevBtn');
+document.addEventListener("keydown", function(event) {
+  if (event.key === "ArrowLeft") {
+    const prevBtn = document.getElementById("prevBtn");
     if (prevBtn) prevBtn.click();
   }
-  if (event.key === 'ArrowRight') {
-    const nextBtn = document.getElementById('nextBtn');
+  if (event.key === "ArrowRight") {
+    const nextBtn = document.getElementById("nextBtn");
     if (nextBtn) nextBtn.click();
   }
-  if (event.key === 'Escape') {
-    const closeBtn = document.getElementById('closeBtn');
+  if (event.key === "Escape") {
+    const closeBtn = document.getElementById("closeBtn");
     if (closeBtn) closeBtn.click();
   }
 });

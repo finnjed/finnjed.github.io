@@ -1,0 +1,1416 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-07T23:43:19.975047+00:00",
+  "source": {
+    "path": "export_argus/morning sessions/2026-07-03_DigitalisierteMobilität_walktingtour.pptx",
+    "name": "2026-07-03_DigitalisierteMobilität_walktingtour.pptx",
+    "extension": ".pptx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size_bytes": 5512325,
+    "modified_timestamp": 1789735798.0,
+    "modified_iso": "2026-09-18T12:49:58+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "powerpoint",
+    "core_properties": {
+      "title": "",
+      "subject": "",
+      "author": "Roman Jarzebowski | ARGUS",
+      "keywords": "",
+      "comments": "",
+      "last_modified_by": "Finn Jedding | ARGUS",
+      "created": "2026-03-10T07:42:54",
+      "modified": "2026-09-18T12:49:57",
+      "revision": 8,
+      "category": "",
+      "content_status": "",
+      "identifier": "",
+      "language": "",
+      "version": ""
+    },
+    "slide_width": 10367963,
+    "slide_height": 5832475,
+    "slide_count": 7,
+    "slides": [
+      {
+        "slide_number": 1,
+        "shape_count": 3,
+        "notes": [
+          "1"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 359999,
+            "top": 1080000,
+            "width": 6370810,
+            "height": 288000,
+            "rotation": 0.0,
+            "text": "Walking Tour - Digitalisierte Mobilität und ihre Wirkung auf die städtische CO2 Bilanz",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Walking Tour - Digitalisierte Mobilität und ihre Wirkung auf die städtische CO2 Bilanz",
+                "runs": [
+                  {
+                    "text": "Walking Tour - Digitalisierte Mobilität und ihre Wirkung auf die städtische CO2 Bilanz",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 359999,
+            "top": 1588905,
+            "width": 6370809,
+            "height": 288000,
+            "rotation": 0.0,
+            "text": "Morning Session 30/04/2026",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Morning Session 30/04/2026",
+                "runs": [
+                  {
+                    "text": "Morning Session 30/04/2026",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Grafik 11",
+            "shape_type": "PICTURE (13)",
+            "left": 6894108,
+            "top": 1528798,
+            "width": 2914960,
+            "height": 3871431,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 2,
+        "shape_count": 7,
+        "notes": [
+          "berlin: solarbetriebenes DHL-Boot\n\nFörderprogramm: Horizon EuropeLaufzeit: 1. September 2022 - 31. August 2026Partnerländer: Deutschland, Spanien, Frankreich, Türkei, Estland, Bosnien und Herzegowina, Dänemark, Bulgarien, Italien, Belgien, PolenPartnerstädte: Hamburg, Nantes (Frankreich), Logroño (Spanien), Istanbul (Türkei), Tallinn (Estland), Getafe (Spanien), Gent (Belgien), Sarajevo (Bosnien und Herzegowina)Koordination: INTERFACE TRANSPORT (Lyon, Frankreich)Partner in der FHH: Senatskanzlei, Behörde für Wirtschaft, Arbeit und Innovation, Bezirk Hamburg-MitteWeitere Hamburger Partner: TU-Hamburg, Logistik Initiative Hamburg, Deutsche Post DHL, NMS New Mobility Solution Hamburg GmbHGesamtbudget 9.562.521,25 €Gesamtförderung: 7.963.993,63 €Maximale EU-Förderung für die FHH: 501.041,25 €\n\nin Hamburg gehören Logistik-Initiative Hamburg (LIHH) gehören die Senatskanzlei, der Bezirk Mitte, das Logistikreferat der Behörde für Wirtschaft und Innovation (BWI), die Deutsche Post DHL, die Technische Universität Hamburg (TUHH) sowie die New Mobility Solutions (NMS) zum Hamburger Konsortium\n\nAVATAR- Autonomous vessels, cost-effective transhipment, waste return",
+          "2"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215900,
+            "top": 373544,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "DECARBOMILE",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "DECARBOMILE",
+                "runs": [
+                  {
+                    "text": "DECARBOMILE",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck: abgerundete Ecken 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3598453,
+            "top": 5221649,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 33",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3606851,
+            "top": 5497840,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Rechteck 17",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 6359572,
+            "top": 5023479,
+            "width": 2523035,
+            "height": 531775,
+            "rotation": 0.0,
+            "text": "Weiterführende Links:\nhttps://www.hamburg-logistik.net/unsere-aktivitaeten/projekte/decarbomile/",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Weiterführende Links:",
+                "runs": [
+                  {
+                    "text": "Weiterführende Links:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 101600
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "https://www.hamburg-logistik.net/unsere-aktivitaeten/projekte/decarbomile/",
+                "runs": [
+                  {
+                    "text": "https://www.hamburg-logistik.net/unsere-aktivitaeten/projekte/decarbomile/",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 101600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textplatzhalter 32",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 5062537,
+            "height": 4060269,
+            "rotation": 0.0,
+            "text": "vergleichbar mit ähnlichen bestehenden Modellen in Berlin, Paris\nlöst Problem, dass Lieferfahrzeuge nur zu 57 % ihrer Gewichtskapazität ausgelastet sind und 27 % sogar leer unterwegs sind.  \nvor allem Paketlogistik, dient gleichzeitig als MikroHub für Lastenradlogistik (Last Mile)\nProjekt wird zusammen mit 31 Partnern aus 10 Ländern durchgeführt; in 5 Städten wird die Konzeption umgesetzt\n2022-2024 Konzeption und Vorbereitung\n2024-2026 Umsetzung\nLIHH vernetzt u.a. TUH, DHL, Bezirk Mitte, Senat\n2020-‘23 vglb. Projekt AVATAR\ndaraus ergab sich 2022 eine Machbarkeitsstudie für Wasserlogistik\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "vergleichbar mit ähnlichen bestehenden Modellen in Berlin, Paris",
+                "runs": [
+                  {
+                    "text": "vergleichbar mit ähnlichen bestehenden Modellen in Berlin, Paris",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "löst Problem, dass Lieferfahrzeuge nur zu 57 % ihrer Gewichtskapazität ausgelastet sind und 27 % sogar leer unterwegs sind.  ",
+                "runs": [
+                  {
+                    "text": "löst Problem, dass Lieferfahrzeuge nur zu ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": "57 % ihrer Gewichtskapazität ausgelastet sind und 27 % sogar leer unterwegs sind.  ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 228600
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "vor allem Paketlogistik, dient gleichzeitig als MikroHub für Lastenradlogistik (Last Mile)",
+                "runs": [
+                  {
+                    "text": "vor allem Paketlogistik, dient gleichzeitig als ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": "MikroHub",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": " für Lastenradlogistik (Last Mile)",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "Projekt wird zusammen mit 31 Partnern aus 10 Ländern durchgeführt; in 5 Städten wird die Konzeption umgesetzt",
+                "runs": [
+                  {
+                    "text": "Projekt wird zusammen mit 31 Partnern aus 10 Ländern durchgeführt; in 5 Städten wird die Konzeption umgesetzt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "2022-2024 Konzeption und Vorbereitung",
+                "runs": [
+                  {
+                    "text": "2022-2024 Konzeption und Vorbereitung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 6,
+                "level": 0,
+                "text": "2024-2026 Umsetzung",
+                "runs": [
+                  {
+                    "text": "2024-2026 Umsetzung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 7,
+                "level": 0,
+                "text": "LIHH vernetzt u.a. TUH, DHL, Bezirk Mitte, Senat",
+                "runs": [
+                  {
+                    "text": "LIHH vernetzt u.a. TUH, DHL, Bezirk Mitte, Senat",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 8,
+                "level": 0,
+                "text": "2020-‘23 vglb. Projekt AVATAR",
+                "runs": [
+                  {
+                    "text": "2020-‘23 ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": "vglb",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": ". Projekt AVATAR",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 9,
+                "level": 1,
+                "text": "daraus ergab sich 2022 eine Machbarkeitsstudie für Wasserlogistik",
+                "runs": [
+                  {
+                    "text": "daraus ergab sich 2022 eine Machbarkeitsstudie für Wasserlogistik",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 228600
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 10,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 37",
+            "shape_type": "PICTURE (13)",
+            "left": 6459219,
+            "top": 608751,
+            "width": 2738121,
+            "height": 1825414,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 7,
+            "name": "Grafik 43",
+            "shape_type": "PICTURE (13)",
+            "left": 6459218,
+            "top": 2712407,
+            "width": 2738122,
+            "height": 2045432,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 3,
+        "shape_count": 5,
+        "notes": [
+          "landesbetrieb verkehr",
+          "3"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215899,
+            "top": 373544,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Digitalisierung Parkraummanagement",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Digitalisierung Parkraummanagement",
+                "runs": [
+                  {
+                    "text": "Digitalisierung Parkraummanagement",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck: abgerundete Ecken 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3598453,
+            "top": 5221649,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 33",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3606851,
+            "top": 5497840,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 32",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 5062537,
+            "height": 4060269,
+            "rotation": 0.0,
+            "text": "Einführung im Juli 2026 vergleichbar mit bereits etablierten und erfolgreichen Systemen in Paris, Amsterdam und Rotterdam.\nBewohnendenausweis sowie am Automaten eigegebenes Kennzeichen werden dafür rein digital über das Kennzeichen in der App hinterlegt.\nDas Scan-Fahrzeug prüft die Kennzeichen im fließenden Verkehr, löscht Positivdaten sofort und meldet potenzielle Verstöße an den LBV-Außendienst.\nTechnologie zentraler Baustein für Masterplan Parken.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Einführung im Juli 2026 vergleichbar mit bereits etablierten und erfolgreichen Systemen in Paris, Amsterdam und Rotterdam.",
+                "runs": [
+                  {
+                    "text": "Einführung im Juli 2026 vergleichbar mit bereits etablierten und erfolgreichen Systemen in Paris, Amsterdam und Rotterdam.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Bewohnendenausweis sowie am Automaten eigegebenes Kennzeichen werden dafür rein digital über das Kennzeichen in der App hinterlegt.",
+                "runs": [
+                  {
+                    "text": "Bewohnendenausweis sowie am Automaten eigegebenes Kennzeichen werden dafür rein digital über das Kennzeichen in der App hinterlegt.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "Das Scan-Fahrzeug prüft die Kennzeichen im fließenden Verkehr, löscht Positivdaten sofort und meldet potenzielle Verstöße an den LBV-Außendienst.",
+                "runs": [
+                  {
+                    "text": "Das Scan-Fahrzeug prüft die Kennzeichen im fließenden Verkehr, löscht Positivdaten sofort und meldet potenzielle Verstöße an den LBV-Außendienst.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "Technologie zentraler Baustein für Masterplan Parken.",
+                "runs": [
+                  {
+                    "text": "Technologie zentraler Baustein für Masterplan Parken.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 49",
+            "shape_type": "PICTURE (13)",
+            "left": 6459219,
+            "top": 2150314,
+            "width": 2727419,
+            "height": 1530015,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 4,
+        "shape_count": 6,
+        "notes": [
+          "landesbetrieb verkehr",
+          "4"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215899,
+            "top": 373544,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck: abgerundete Ecken 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3598453,
+            "top": 5221649,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 33",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3606851,
+            "top": 5497840,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 32",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 5062537,
+            "height": 4060269,
+            "rotation": 0.0,
+            "text": "Einbau intelligenter Steuerungseinheiten (ITS/ETS-Cubes) an Kreuzungen als technologische Grundlage für das autonome Fahren.\nDas System sendet Echtzeit-Verkehrsdaten auf eine Distanz von bis zu 300 Metern direkt an vernetzte und autonome Fahrzeuge.\nIntegrierte Wärmebildkameras dienen primär der präzisen Verkehrszählung und der automatisierten Erfassung des Verkehrsflusses.\nEine sekundäre optische Erfassung fokussiert sich speziell auf die exakte Zählung und den Schutz von Radfahrenden.\nBisher sind rund 600 Ampelanlagen mit der Technologie ausgestattet, eine Ausweitung auf insgesamt 1.700 Standorte ist geplant.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Einbau intelligenter Steuerungseinheiten (ITS/ETS-Cubes) an Kreuzungen als technologische Grundlage für das autonome Fahren.",
+                "runs": [
+                  {
+                    "text": "Einbau intelligenter Steuerungseinheiten (ITS/ETS-Cubes) an Kreuzungen als technologische Grundlage für das autonome Fahren.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Das System sendet Echtzeit-Verkehrsdaten auf eine Distanz von bis zu 300 Metern direkt an vernetzte und autonome Fahrzeuge.",
+                "runs": [
+                  {
+                    "text": "Das System sendet Echtzeit-Verkehrsdaten auf eine Distanz von bis zu 300 Metern direkt an vernetzte und autonome Fahrzeuge.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "Integrierte Wärmebildkameras dienen primär der präzisen Verkehrszählung und der automatisierten Erfassung des Verkehrsflusses.",
+                "runs": [
+                  {
+                    "text": "Integrierte Wärmebildkameras dienen primär der präzisen Verkehrszählung und der automatisierten Erfassung des Verkehrsflusses.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "Eine sekundäre optische Erfassung fokussiert sich speziell auf die exakte Zählung und den Schutz von Radfahrenden.",
+                "runs": [
+                  {
+                    "text": "Eine sekundäre optische Erfassung fokussiert sich speziell auf die exakte Zählung und den Schutz von Radfahrenden.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "Bisher sind rund 600 Ampelanlagen mit der Technologie ausgestattet, eine Ausweitung auf insgesamt 1.700 Standorte ist geplant.",
+                "runs": [
+                  {
+                    "text": "Bisher sind rund 600 Ampelanlagen mit der Technologie ausgestattet, eine Ausweitung auf insgesamt 1.700 Standorte ist geplant.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215900,
+            "top": 290735,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Intelligente Ampelinfrastruktur und Digitalisierung des Verkehrsraums",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Intelligente Ampelinfrastruktur und Digitalisierung des Verkehrsraums",
+                "runs": [
+                  {
+                    "text": "Intelligente Ampelinfrastruktur und Digitalisierung des Verkehrsraums",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 177800
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 6",
+            "shape_type": "PICTURE (13)",
+            "left": 6459219,
+            "top": 608997,
+            "width": 2783841,
+            "height": 3711788,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 5,
+        "shape_count": 6,
+        "notes": [
+          "landesbetrieb verkehr",
+          "5"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215899,
+            "top": 373544,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck: abgerundete Ecken 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3598453,
+            "top": 5221649,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 33",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3606851,
+            "top": 5497840,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 32",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 5062537,
+            "height": 4060269,
+            "rotation": 0.0,
+            "text": "Integration von 20 autonomen Fahrzeugen in den bestehenden On-Demand-Dienst hvv hop der VHH\nVerknüpfung von fahrerloser Technologie mit einer Buchungs-App unter realen Bedingungen\nProjektlaufzeit im Stadtteil Harburg über drei Testphasen mit einem geplanten Abschluss im Juni 2027\nGewährleistung der Betriebssicherheit im Straßenverkehr durch eine externe technische Aufsicht\nDas Vorhaben dient als Pilotprojekt zur langfristigen Skalierung auf bis zu 10.000 autonome Fahrzeuge im Stadtgebiet",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Integration von 20 autonomen Fahrzeugen in den bestehenden On-Demand-Dienst hvv hop der VHH",
+                "runs": [
+                  {
+                    "text": "Integration von 20 autonomen Fahrzeugen in den bestehenden On-Demand-Dienst hvv ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": "hop",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  },
+                  {
+                    "text": " der VHH",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Verknüpfung von fahrerloser Technologie mit einer Buchungs-App unter realen Bedingungen",
+                "runs": [
+                  {
+                    "text": "Verknüpfung von fahrerloser Technologie mit einer Buchungs-App unter realen Bedingungen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "Projektlaufzeit im Stadtteil Harburg über drei Testphasen mit einem geplanten Abschluss im Juni 2027",
+                "runs": [
+                  {
+                    "text": "Projektlaufzeit im Stadtteil Harburg über drei Testphasen mit einem geplanten Abschluss im Juni 2027",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "Gewährleistung der Betriebssicherheit im Straßenverkehr durch eine externe technische Aufsicht",
+                "runs": [
+                  {
+                    "text": "Gewährleistung der Betriebssicherheit im Straßenverkehr durch eine externe technische Aufsicht",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "Das Vorhaben dient als Pilotprojekt zur langfristigen Skalierung auf bis zu 10.000 autonome Fahrzeuge im Stadtgebiet",
+                "runs": [
+                  {
+                    "text": "Das Vorhaben dient als Pilotprojekt zur langfristigen Skalierung auf bis zu 10.000 autonome Fahrzeuge im Stadtgebiet",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215900,
+            "top": 290735,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Autonome Shuttles hvv/vhh",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Autonome Shuttles hvv/vhh",
+                "runs": [
+                  {
+                    "text": "Autonome Shuttles hvv/",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 254000
+                  },
+                  {
+                    "text": "vhh",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 1",
+            "shape_type": "PICTURE (13)",
+            "left": 6359572,
+            "top": 2173309,
+            "width": 2931028,
+            "height": 1608906,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 6,
+        "shape_count": 6,
+        "notes": [
+          "landesbetrieb verkehr",
+          "6"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215899,
+            "top": 373544,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck: abgerundete Ecken 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3598453,
+            "top": 5221649,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 33",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3606851,
+            "top": 5497840,
+            "width": 249146,
+            "height": 135437,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 32",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 5062537,
+            "height": 4060269,
+            "rotation": 0.0,
+            "text": "Zusammenschluss von Grundeigentümern und Geschäften zur Verschönerung und langfristigen Attraktivierung des Hamburger Rathausquartiers\nFinanzierung von Infrastruktur zur Steigerung der Aufenthaltsqualität direkt durch die Eigentümer vor Ort\nDurchführung von zusätzlichen Reinigungsarbeiten, gemeinsamen Werbeaktionen und Veranstaltungen für mehr Kundschaft\ngemeinsame Kommunikationsplattform mit Behörden\nOrganisation aller Maßnahmen über eine feste Laufzeit von fünf Jahren",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Zusammenschluss von Grundeigentümern und Geschäften zur Verschönerung und langfristigen Attraktivierung des Hamburger Rathausquartiers",
+                "runs": [
+                  {
+                    "text": "Zusammenschluss von Grundeigentümern und Geschäften zur Verschönerung und langfristigen Attraktivierung des Hamburger Rathausquartiers",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Finanzierung von Infrastruktur zur Steigerung der Aufenthaltsqualität direkt durch die Eigentümer vor Ort",
+                "runs": [
+                  {
+                    "text": "Finanzierung von Infrastruktur zur Steigerung der Aufenthaltsqualität direkt durch die Eigentümer vor Ort",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "Durchführung von zusätzlichen Reinigungsarbeiten, gemeinsamen Werbeaktionen und Veranstaltungen für mehr Kundschaft",
+                "runs": [
+                  {
+                    "text": "Durchführung von zusätzlichen Reinigungsarbeiten, gemeinsamen Werbeaktionen und Veranstaltungen für mehr Kundschaft",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "gemeinsame Kommunikationsplattform mit Behörden",
+                "runs": [
+                  {
+                    "text": "gemeinsame Kommunikationsplattform mit Behörden",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "Organisation aller Maßnahmen über eine feste Laufzeit von fünf Jahren",
+                "runs": [
+                  {
+                    "text": "Organisation aller Maßnahmen über eine feste Laufzeit von fünf Jahren",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 215900
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215900,
+            "top": 290735,
+            "width": 6243319,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "BID Rathausquartier",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "BID Rathausquartier",
+                "runs": [
+                  {
+                    "text": "BID Rathausquartier",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mj-lt",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 6048164,
+            "top": 1517649,
+            "width": 3177112,
+            "height": 2383792,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 7,
+        "shape_count": 6,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 16",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4145989,
+            "width": 1940900,
+            "height": 318236,
+            "rotation": 0.0,
+            "text": "studio@argus-hh.de\n+49 (40) 309 709 0",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "studio@argus-hh.de",
+                "runs": [
+                  {
+                    "text": "studio@argus-hh.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "+49 (40) 309 709 0",
+                "runs": [
+                  {
+                    "text": "+49 (40) 309 709 0",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 17",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 5239648,
+            "top": 4145989,
+            "width": 1939388,
+            "height": 318236,
+            "rotation": 0.0,
+            "text": "studio@argus-hh.de\n+49 (40) 309 709 0",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "studio@argus-hh.de",
+                "runs": [
+                  {
+                    "text": "studio@argus-hh.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "+49 (40) 309 709 0",
+                "runs": [
+                  {
+                    "text": "+49 (40) 309 709 0",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 11",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3535860,
+            "top": 3601440,
+            "width": 1940900,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Finn Jedding",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Finn Jedding",
+                "runs": [
+                  {
+                    "text": "Finn Jedding",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 12",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3414135,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Ansprechpartner:innen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Ansprechpartner:innen",
+                "runs": [
+                  {
+                    "text": "Ansprechpartner:innen",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textplatzhalter 14",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3961937,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Kontakt",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Kontakt",
+                "runs": [
+                  {
+                    "text": "Kontakt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Textplatzhalter 13",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4474684,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "argus-studio.de",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "argus-studio.de",
+                "runs": [
+                  {
+                    "text": "argus-studio.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

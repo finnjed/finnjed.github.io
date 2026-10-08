@@ -1,0 +1,26 @@
+{
+  "cover": "cover.png",
+  "hovtitle": "Status-quo-Analysen in Mobilitätskonzepten",
+  "slides": [
+    {
+      "file": "1.png",
+      "title": "Parkraumanalyse Sonnenland",
+      "desc": "Kartografische Erfassung und Einordnung der vorhandenen Parkflächen als Grundlage für die weitere Mobilitätsplanung."
+    },
+    {
+      "file": "2.pdf",
+      "title": "Mobilitäts- und Stellplatzkonzept Heide",
+      "desc": "Konzeptionelle Gegenüberstellung von Organisations-, Finanzierungs- und Betreibermodellen für Sammelgaragen. Die Varianten werden nach Aufgaben, Einflussmöglichkeiten, Aufwand und finanziellem Risiko eingeordnet."
+    },
+    {
+      "file": "3.pdf",
+      "title": "Stellplatzbedarf Winter Harbour Bratislava",
+      "desc": "Herleitung eines Stellplatzschlüssels aus internationalen Vergleichsprojekten, räumlich differenziertem Pkw-Besitz und standortbezogenen Einflussfaktoren."
+    },
+    {
+      "file": "4.png",
+      "title": "Fußläufige Erreichbarkeit in Tonndorf",
+      "desc": "Isochronen veranschaulichen die Erreichbarkeit des Projektumfelds zu Fuß und ordnen wichtige Ziele sowie räumliche Barrieren ein."
+    }
+  ]
+}

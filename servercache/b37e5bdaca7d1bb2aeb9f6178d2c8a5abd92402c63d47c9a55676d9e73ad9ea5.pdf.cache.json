@@ -1,0 +1,12 @@
+{
+  "cache_format_version": 1,
+  "created_at": "2026-10-08T10:02:06.511112+00:00",
+  "source_signature": {
+    "relative_path": "export_argus/bratislava.pdf",
+    "size_bytes": 329059,
+    "modified_ns": 1790347202000000000,
+    "extraction_version": "1.0.0"
+  },
+  "extraction_file": "b37e5bdaca7d1bb2aeb9f6178d2c8a5abd92402c63d47c9a55676d9e73ad9ea5.pdf.extracted.json",
+  "extraction_characters": 9369
+}

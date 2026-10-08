@@ -1,0 +1,31 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-08T10:03:09.686238+00:00",
+  "source": {
+    "path": "content/kasten9/2.png",
+    "name": "2.png",
+    "extension": ".png",
+    "mime_type": "image/png",
+    "size_bytes": 101839,
+    "modified_timestamp": 1791416631.341205,
+    "modified_iso": "2026-10-07T23:43:51.341205+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "image",
+    "image_format": "PNG",
+    "mode": "RGB",
+    "width": 1600,
+    "height": 900,
+    "frame_count": 1,
+    "image_info": {},
+    "exif": {},
+    "ocr_enabled": true,
+    "ocr_language": "deu+eng",
+    "ocr_text": "Parkraumanalyse GIS\n\nQML\n\nARGUS Studio/ 12\n",
+    "ocr_error": null
+  }
+}

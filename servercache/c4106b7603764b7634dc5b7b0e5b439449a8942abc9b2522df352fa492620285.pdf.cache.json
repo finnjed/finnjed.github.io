@@ -1,0 +1,12 @@
+{
+  "cache_format_version": 1,
+  "created_at": "2026-10-08T10:02:06.223052+00:00",
+  "source_signature": {
+    "relative_path": "export_argus/2026-07-27_Masterplan Heide_Abstimmung Mobilitäts- und Stellplatzkonzept.pdf",
+    "size_bytes": 753244,
+    "modified_ns": 1790347092000000000,
+    "extraction_version": "1.0.0"
+  },
+  "extraction_file": "c4106b7603764b7634dc5b7b0e5b439449a8942abc9b2522df352fa492620285.pdf.extracted.json",
+  "extraction_characters": 20674
+}

@@ -1,0 +1,2241 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-07T23:43:20.388898+00:00",
+  "source": {
+    "path": "export_argus/morning sessions/2026-08-14_RadSim.pptx",
+    "name": "2026-08-14_RadSim.pptx",
+    "extension": ".pptx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size_bytes": 22009959,
+    "modified_timestamp": 1789736464.0,
+    "modified_iso": "2026-09-18T13:01:04+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "powerpoint",
+    "core_properties": {
+      "title": "",
+      "subject": "",
+      "author": "Finn Jedding | ARGUS",
+      "keywords": "",
+      "comments": "",
+      "last_modified_by": "Finn Jedding | ARGUS",
+      "created": "2026-08-12T08:53:49",
+      "modified": "2026-09-18T13:01:03",
+      "revision": 7,
+      "category": "",
+      "content_status": "",
+      "identifier": "",
+      "language": "",
+      "version": ""
+    },
+    "slide_width": 10367963,
+    "slide_height": 5832475,
+    "slide_count": 12,
+    "slides": [
+      {
+        "slide_number": 1,
+        "shape_count": 1,
+        "notes": [
+          "1"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 17",
+            "shape_type": "PICTURE (13)",
+            "left": -28351,
+            "top": -16273,
+            "width": 10424663,
+            "height": 5865020,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 2,
+        "shape_count": 18,
+        "notes": [
+          "typisches Phänomen: Themengebiet, in dem Datenbasiertheit von Vorteil, aber nicht zwingend erforderlich ist und die Modellierung von Auswirkungen (Simulation) viel Aufwand erfordert; \n\nexplizit die Modellierung von Radverkehr ist kompliziert, da hier ggü.dem MIV auch weiche Faktoren hinzugezogen werden müssen, um Verhaltensänderungen zu erkären\n\nAnstelle der Kommune kann natürlich auch ein beliebiges Ingenieurbüro stehen\n\n-> und da kommt RadSim ins Spiel",
+          "2"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 55",
+            "shape_type": "PICTURE (13)",
+            "left": -1052,
+            "top": -1,
+            "width": 10370068,
+            "height": 5832476,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Problem",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Problem",
+                "runs": [
+                  {
+                    "text": "Problem",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Akteur (Kommune), der vor Planung neuer Infrastruktur die Auswirkungen kennen möchte, obwohl die Kapazitäten für eine realitätsnahe Abbildung der Verkehrsmittelwahlent-scheidungen der Radfahrenden seitens des Akteurs nicht gegeben ist.\n\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Akteur (Kommune), der vor Planung neuer Infrastruktur die Auswirkungen kennen möchte, obwohl die Kapazitäten für eine realitätsnahe Abbildung der Verkehrsmittelwahlent-scheidungen der Radfahrenden seitens des Akteurs nicht gegeben ist.",
+                "runs": [
+                  {
+                    "text": "Akteur (Kommune), der vor Planung neuer Infrastruktur die Auswirkungen kennen möchte, obwohl die Kapazitäten für eine realitätsnahe Abbildung der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  },
+                  {
+                    "text": "Verkehrsmittelwahlent",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  },
+                  {
+                    "text": "-scheidungen der Radfahrenden seitens des Akteurs nicht gegeben ist.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Rechteck: abgerundete Ecken 6",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 2955926,
+            "top": 684246,
+            "width": 1828800,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Vereinfachte Abbildung Realität über Ursachen (Modellierung)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Vereinfachte Abbildung Realität über Ursachen (Modellierung)",
+                "runs": [
+                  {
+                    "text": "Vereinfachte Abbildung Realität über Ursachen (Modellierung)",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Rechteck: abgerundete Ecken 8",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 7602537,
+            "top": 684246,
+            "width": 1828800,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Messverfahren / Skalierung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Messverfahren / Skalierung",
+                "runs": [
+                  {
+                    "text": "Messverfahren / Skalierung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Rechteck: abgerundete Ecken 11",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 3870326,
+            "top": 2916237,
+            "width": 1828800,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Aufbau eines solchen Modells über alle Parameter (zu) aufwändig",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Aufbau eines solchen Modells über alle Parameter (zu) aufwändig",
+                "runs": [
+                  {
+                    "text": "Aufbau eines solchen Modells über alle Parameter (zu) aufwändig",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Freihandform: Form 15",
+            "shape_type": "FREEFORM (5)",
+            "left": 3160259,
+            "top": 2166937,
+            "width": 454479,
+            "height": 1288186,
+            "rotation": 356.84285,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Gerader Verbinder 21",
+            "shape_type": "LINE (9)",
+            "left": 3564731,
+            "top": 3255169,
+            "width": 84484,
+            "height": 174643,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 10,
+            "name": "Gerader Verbinder 23",
+            "shape_type": "LINE (9)",
+            "left": 3537429,
+            "top": 3429812,
+            "width": 112438,
+            "height": 174643,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 11,
+            "name": "Freihandform: Form 30",
+            "shape_type": "FREEFORM (5)",
+            "left": 8732289,
+            "top": 2029144,
+            "width": 528550,
+            "height": 1288186,
+            "rotation": 356.84285,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 12,
+            "name": "Gerader Verbinder 31",
+            "shape_type": "LINE (9)",
+            "left": 8767512,
+            "top": 3136900,
+            "width": 56200,
+            "height": 182189,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 13,
+            "name": "Gerader Verbinder 32",
+            "shape_type": "LINE (9)",
+            "left": 8767512,
+            "top": 3319089,
+            "width": 113350,
+            "height": 147572,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 14,
+            "name": "Rechteck: abgerundete Ecken 39",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 6688137,
+            "top": 2916237,
+            "width": 1828800,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Kann den Nutzen neuer Infrastruktur nur überschlagen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Kann den Nutzen neuer Infrastruktur nur überschlagen",
+                "runs": [
+                  {
+                    "text": "Kann den Nutzen neuer Infrastruktur nur überschlagen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 15,
+            "name": "Pfeil: nach unten 40",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 5969620,
+            "top": 2909448,
+            "width": 467942,
+            "height": 2147546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 16,
+            "name": "Textfeld 42",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 4120452,
+            "top": 2673237,
+            "width": 1378583,
+            "height": 169277,
+            "rotation": 0.0,
+            "text": "Vorteil: Zielerfüllung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Vorteil: Zielerfüllung",
+                "runs": [
+                  {
+                    "text": "Vorteil: Zielerfüllung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 17,
+            "name": "Textfeld 45",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 6879701,
+            "top": 2673237,
+            "width": 1405834,
+            "height": 169277,
+            "rotation": 0.0,
+            "text": "Vorteil: Machbarkeit",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Vorteil: Machbarkeit",
+                "runs": [
+                  {
+                    "text": "Vorteil: Machbarkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 18,
+            "name": "Textfeld 46",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 4036331,
+            "top": 5245767,
+            "width": 4334520,
+            "height": 338554,
+            "rotation": 0.0,
+            "text": "es brauchte eine Lösung, die beide Vorteile ohne die Nachteile\nfür den Use Case kleinerer Kommunen vereint",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "es brauchte eine Lösung, die beide Vorteile ohne die Nachteile",
+                "runs": [
+                  {
+                    "text": "es brauchte eine Lösung, die beide Vorteile ohne die Nachteile",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "für den Use Case kleinerer Kommunen vereint",
+                "runs": [
+                  {
+                    "text": "für den Use Case kleinerer Kommunen vereint",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 3,
+        "shape_count": 5,
+        "notes": [
+          "Auf Autoren eingehen! -> TUD, Professur für Verkehrsökologie, Cyface, beteiligt war STADTRAD, Förderung durch Nationalen Radverkehrsplan\n\nDie Funktionsweise von RadSim ist vor allem darauf ausgerichtet, Planfälle im Radverkehr möglichst gut gegeneinander abwägen zu können, Netzeffekte zu untersuchen und Steuerung über latente Faktoren zu ermöglichen. Dabei stellt eine zentrale Hürde die Modellierung der „weichen“ Faktoren der Radfahrenden bei der Routenwahl dar. Diese wurden über die Stadtrad-Daten mit dem multinominalen Logit-Modell gewonnen. Damit ist ggü. herkömmlichen heuristischen Ansätzen für diesen Use Case eine rekonstruierbare Lösung gefunden, Prognose zu erstellen.> siehe Anwendungsfall",
+          "3"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 575,
+            "top": 0,
+            "width": 10366813,
+            "height": 5832475,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Funktionsweise auf mehreren Ebenen:",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Funktionsweise auf mehreren Ebenen:",
+                "runs": [
+                  {
+                    "text": "Funktionsweise auf mehreren Ebenen:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                "runs": [
+                  {
+                    "text": "RadSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Charaktierisieren",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "wissenschaftlichkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 153",
+            "shape_type": "PICTURE (13)",
+            "left": 4535488,
+            "top": 0,
+            "width": 5832475,
+            "height": 5832475,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 4,
+        "shape_count": 5,
+        "notes": [
+          "Weitere Funktionsebene\nAusrichtung auf einen pragmatischen Einsatz in der Planungspraxis\näußert sich in\nGeringerer Daten-, Zeit- und Kompetenzbedarf als bei klassischen Verkehrsmodellen\nNutzung verfügbarer STADTRADELN- und OpenStreetMap-Daten, d.h. auch das Modell ist aufgrund seiner wenigen Datenquellen pragmatisch erstellt worden\nLeicht zugängliche Webanwendung ohne benötigte Vorkenntnisse\nausgelegt auf einfache Netzmodellierung und Visualisierung der Auswirkungen\n(Begrenzt auf den Wirkungskreis) nachvollziehbares, datenbasiertes „Open Source“ Tool",
+          "4"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 575,
+            "top": 0,
+            "width": 10366813,
+            "height": 5832475,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Funktionsweise auf mehreren Ebenen:",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Funktionsweise auf mehreren Ebenen:",
+                "runs": [
+                  {
+                    "text": "Funktionsweise auf mehreren Ebenen:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                "runs": [
+                  {
+                    "text": "RadSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Charaktierisieren",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "wissenschaftlichkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 155",
+            "shape_type": "PICTURE (13)",
+            "left": 4535487,
+            "top": 0,
+            "width": 5832475,
+            "height": 5832475,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 5,
+        "shape_count": 5,
+        "notes": [
+          "Eine wichtige Funktionalität ist außerdem, dass das Modell zwar Nachvollziehbar, aber dennoch wissenschaftlich fundiert ist; Da der Radverkehr wie erwähnt schwieriger zu simulieren ist, wurde hier mit entsprechender Sorgfalt vorgegangen. Mehr zum Aufbau des Modells gleich.",
+          "5"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 8",
+            "shape_type": "PICTURE (13)",
+            "left": 575,
+            "top": 0,
+            "width": 10366813,
+            "height": 5832475,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Funktionsweise auf mehreren Ebenen:",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Funktionsweise auf mehreren Ebenen:",
+                "runs": [
+                  {
+                    "text": "Funktionsweise auf mehreren Ebenen:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "RadSim ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu Charaktierisieren ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine wissenschaftlichkeit bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                "runs": [
+                  {
+                    "text": "RadSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist ein Tool zur Status-Quo-Darstellung sowie Verkehrsprognose nach der Veränderung im Netz, bzw. der Integration von Planfällen. Zu ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Charaktierisieren",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " ist es über drei wesentliche Eigenschaften, unter anderem die Möglichkeit, Netzänderungen in das Bestandsnetz zu integrieren und dabei das Ergebnis des Zusammenwirkens der latenten Faktoren zu berechnen. Als wesentlichen Unterschied zu bestehenden Mitteln lässt sich festhalten, dass das Tool praktisch und einfach anwendbar ist. Außerdem ist eine ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "wissenschaftlichkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " bzw. durch die Deduktion aus vorhandenen Bewegungsdaten eine Fundiertheit festzustellen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 7",
+            "shape_type": "PICTURE (13)",
+            "left": 4535488,
+            "top": 0,
+            "width": 5832475,
+            "height": 5832475,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 6,
+        "shape_count": 6,
+        "notes": [
+          "einfache Darstellung von Radverkehrsström",
+          "6"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Freihandform: Form 7",
+            "shape_type": "FREEFORM (5)",
+            "left": 4192915,
+            "top": 1680078,
+            "width": 4547225,
+            "height": 3376916,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Features BikeSim\u000bVerkehrsmengen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Features BikeSim\u000bVerkehrsmengen",
+                "runs": [
+                  {
+                    "text": "Features BikeSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Verkehrsmengen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "BikeSim ist zur Vereinfachten Benutzung für die Kommunen direkt im Web nutzbar; So lässt sich hier neben der Simulation von Infrastrukturänderungen auch die einfache Darstellung von Radverkehrsströmen nutzen.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "BikeSim ist zur Vereinfachten Benutzung für die Kommunen direkt im Web nutzbar; So lässt sich hier neben der Simulation von Infrastrukturänderungen auch die einfache Darstellung von Radverkehrsströmen nutzen.",
+                "runs": [
+                  {
+                    "text": "BikeSim ist zur Vereinfachten Benutzung für die Kommunen direkt im Web nutzbar; So lässt sich hier neben der Simulation von Infrastrukturänderungen auch die einfache Darstellung von Radverkehrsströmen nutzen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 9",
+            "shape_type": "PICTURE (13)",
+            "left": 2514600,
+            "top": 833629,
+            "width": 6943726,
+            "height": 3905846,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 14",
+            "shape_type": "PICTURE (13)",
+            "left": 214313,
+            "top": 2666048,
+            "width": 2169507,
+            "height": 2169506,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 7,
+        "shape_count": 6,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 10",
+            "shape_type": "PICTURE (13)",
+            "left": 2820617,
+            "top": 775481,
+            "width": 7291820,
+            "height": 4101648,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Freihandform: Form 7",
+            "shape_type": "FREEFORM (5)",
+            "left": 4192915,
+            "top": 1680078,
+            "width": 4547225,
+            "height": 3376916,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Features BikeSim\u000bDifferenzen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Features BikeSim\u000bDifferenzen",
+                "runs": [
+                  {
+                    "text": "Features BikeSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Differenzen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Im angezeigten Farbschema lassen sich die Differenzen des DTVs anzeigen, vergleichbar zu regulären Verkehrsmodellen: Diese basieren auf den simulierten Fahrten des Analysemodells. Rechts die simulierten Verlagerungen nach Einsturz der Carolabrücke in Dresden.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Im angezeigten Farbschema lassen sich die Differenzen des DTVs anzeigen, vergleichbar zu regulären Verkehrsmodellen: Diese basieren auf den simulierten Fahrten des Analysemodells. Rechts die simulierten Verlagerungen nach Einsturz der Carolabrücke in Dresden.",
+                "runs": [
+                  {
+                    "text": "Im angezeigten Farbschema lassen sich die Differenzen des DTVs anzeigen, vergleichbar zu regulären Verkehrsmodellen: Diese basieren auf den simulierten Fahrten des Analysemodells. Rechts die simulierten Verlagerungen nach Einsturz der Carolabrücke in Dresden.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 214313,
+            "top": 2686841,
+            "width": 2160587,
+            "height": 2160587,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 8,
+        "shape_count": 11,
+        "notes": [
+          "8"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Aufbau Modell",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Aufbau Modell",
+                "runs": [
+                  {
+                    "text": "Aufbau Modell",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck: abgerundete Ecken 20",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 1368335,
+            "top": 722268,
+            "width": 2761705,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "STADTRADELN-GPS-Daten",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "STADTRADELN-GPS-Daten",
+                "runs": [
+                  {
+                    "text": "STADTRADELN-",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "GPS",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "-Daten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Rechteck: abgerundete Ecken 22",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 6591708,
+            "top": 720530,
+            "width": 2407920,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "OSM",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "OSM",
+                "runs": [
+                  {
+                    "text": "OSM",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Pfeil: nach unten 23",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 5433468,
+            "top": 1385735,
+            "width": 4738688,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Auswahl",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Auswahl",
+                "runs": [
+                  {
+                    "text": "Auswahl",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Pfeil: nach unten 29",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 379843,
+            "top": 1358792,
+            "width": 4738688,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Bereinigung, HMM",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Bereinigung, HMM",
+                "runs": [
+                  {
+                    "text": "Bereinigung, HMM",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Rechteck: abgerundete Ecken 35",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 1368335,
+            "top": 2023458,
+            "width": 7631293,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Stadtradeln-GPS-Daten + relevante OSM",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Stadtradeln-GPS-Daten + relevante OSM",
+                "runs": [
+                  {
+                    "text": "Stadtradeln-",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "GPS",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "-Daten + relevante ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "OSM",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Pfeil: nach unten 39",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 817040,
+            "top": 2642086,
+            "width": 8733881,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Erzeugung Routenalternativen über Routing Engine",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Erzeugung Routenalternativen über Routing Engine",
+                "runs": [
+                  {
+                    "text": "Erzeugung ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Routenalternativen",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " über Routing Engine",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Pfeil: nach unten 42",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 817040,
+            "top": 3260714,
+            "width": 8733881,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Attribuierung der Routen(alternativen) zwischen Quelle und Senke",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Attribuierung der Routen(alternativen) zwischen Quelle und Senke",
+                "runs": [
+                  {
+                    "text": "Attribuierung",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " der Routen(alternativen) zwischen Quelle und Senke",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Pfeil: nach unten 44",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 817040,
+            "top": 3879342,
+            "width": 8733881,
+            "height": 768858,
+            "rotation": 0.0,
+            "text": "MNL: Welche Eigenschaften haben dafür gesorgt, dass eine Strecke  (nicht) gefahren wurde",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "MNL: Welche Eigenschaften haben dafür gesorgt, dass eine Strecke  (nicht) gefahren wurde",
+                "runs": [
+                  {
+                    "text": "MNL",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ": Welche Eigenschaften haben dafür gesorgt, dass eine Strecke  (nicht) gefahren wurde",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 11,
+            "name": "Rechteck: abgerundete Ecken 46",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 1368335,
+            "top": 4708044,
+            "width": 7631293,
+            "height": 513306,
+            "rotation": 0.0,
+            "text": "Analysemodell: Auf jedes Netz anwendbare Koeffizienten für die OSM-Tags",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Analysemodell: Auf jedes Netz anwendbare Koeffizienten für die OSM-Tags",
+                "runs": [
+                  {
+                    "text": "Analysemodell",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ": Auf jedes Netz anwendbare Koeffizienten für die OSM-Tags",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 9,
+        "shape_count": 6,
+        "notes": [
+          "die Änderung von Netzeigenschaften (z. B. Führungsformen, Oberflächen, Ausweisung von Radrouten etc.),\ndie Sperrung/Entfernen von Abschnitten im Verkehrsnetz,\ndas Hinzufügen neuer Wege.\n\n\n\n\ndarüber hinaus lässt sich RadSim aber auch von Planern in anderen Bereichen, anwenden, z.B. zum Prüfen von Netzeffekten und zur gezielten Verlagerung der Radfahrenden auf geeignetere Infrastruktur",
+          "9"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Anwendungsfälle Infrastrukturplanung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Anwendungsfälle Infrastrukturplanung",
+                "runs": [
+                  {
+                    "text": "Anwendungsfälle Infrastrukturplanung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Die Webanwendung hilft dabei, die Auswirkungen geplanter Maßnahmen (bspw. Änderungen der Oberflächen oder Radnetze, veränderte Führungsformen, Sperrungen oder neue Radwege) zu simulieren. Dies hilft bei der Bewertung und Priorisierung von Maßnahmen und soll eine gezielte und effiziente Förderung des Radverkehrs ermöglichen.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Die Webanwendung hilft dabei, die Auswirkungen geplanter Maßnahmen (bspw. Änderungen der Oberflächen oder Radnetze, veränderte Führungsformen, Sperrungen oder neue Radwege) zu simulieren. Dies hilft bei der Bewertung und Priorisierung von Maßnahmen und soll eine gezielte und effiziente Förderung des Radverkehrs ermöglichen.",
+                "runs": [
+                  {
+                    "text": "Die Webanwendung hilft dabei, die Auswirkungen geplanter Maßnahmen (bspw. Änderungen der Oberflächen oder Radnetze, veränderte Führungsformen, Sperrungen oder neue Radwege) zu simulieren. Dies hilft bei der Bewertung und Priorisierung von Maßnahmen und soll eine gezielte und effiziente Förderung des Radverkehrs ermöglichen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Grafik 14",
+            "shape_type": "PICTURE (13)",
+            "left": 3115151,
+            "top": 593090,
+            "width": 2324100,
+            "height": 2390775,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 16",
+            "shape_type": "PICTURE (13)",
+            "left": 5439251,
+            "top": 2854992,
+            "width": 2324100,
+            "height": 2390775,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 18",
+            "shape_type": "PICTURE (13)",
+            "left": 7562532,
+            "top": 496887,
+            "width": 2324100,
+            "height": 2419350,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 10,
+        "shape_count": 10,
+        "notes": [
+          "ÖV: Analyse der Radverkehrsanbindung von Haltestellen, Bike-and-Ride und Zubringerpotenzialen\n\nübergreifende Planung: bei mehreren (am Stadtradeln teilnehmenden) Kommunen, deren bisherige Modellierungen administrativ getrennt sind können Netzeffekte und Lückenschlüsse über Modellgrenzen hinweg betrachtet werden\n\nNGOs: strategisch sinnvoll, um Forderungen mit Daten zu belegen und auch „weichere“ Maßnahmen hinsichtlich Vision Zero in der Entwicklung zu begründen, auch um Planungen unter Rücksichtnahme von Ungenauigkeiten zu „prüfen“\n\naußerdem lässt es die Politik gewisse Maßnahmen begründen und priorisieren, Ungleichheiten aufzeigen",
+          "10"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 30",
+            "shape_type": "PICTURE (13)",
+            "left": 575,
+            "top": 0,
+            "width": 10366813,
+            "height": 5832475,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Anwendungsfälle\u000bweitere Akteure",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Anwendungsfälle\u000bweitere Akteure",
+                "runs": [
+                  {
+                    "text": "Anwendungsfälle",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "weitere Akteure",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Weitere Akteure können ",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Weitere Akteure können ",
+                "runs": [
+                  {
+                    "text": "Weitere Akteure können ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textfeld 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7494805,
+            "top": 2251312,
+            "width": 389530,
+            "height": 307777,
+            "rotation": 0.0,
+            "text": "ÖV",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "ÖV",
+                "runs": [
+                  {
+                    "text": "ÖV",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins Bold",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Grafik 13",
+            "shape_type": "PICTURE (13)",
+            "left": 6392531,
+            "top": -173002,
+            "width": 2594078,
+            "height": 2594076,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 7,
+            "name": "Grafik 17",
+            "shape_type": "PICTURE (13)",
+            "left": 4714135,
+            "top": 2465795,
+            "width": 2344016,
+            "height": 2344016,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 8,
+            "name": "Textfeld 24",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 3665183,
+            "top": 2251312,
+            "width": 732573,
+            "height": 307777,
+            "rotation": 0.0,
+            "text": "NGOs",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "NGOs",
+                "runs": [
+                  {
+                    "text": "NGOs",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins Bold",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Grafik 26",
+            "shape_type": "PICTURE (13)",
+            "left": 2727936,
+            "top": -47977,
+            "width": 2607069,
+            "height": 2607066,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 10,
+            "name": "Textfeld 20",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 4227005,
+            "top": 4560444,
+            "width": 3318275,
+            "height": 615553,
+            "rotation": 0.0,
+            "text": "übergreifende\nPlanung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "übergreifende",
+                "runs": [
+                  {
+                    "text": "übergreifende",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins Bold",
+                    "font_size": 254000
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Planung",
+                "runs": [
+                  {
+                    "text": "Planung",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins Bold",
+                    "font_size": 254000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 11,
+        "shape_count": 4,
+        "notes": [
+          "neben der Möglichkeit, neue Radverkehrsinfrastruktur in RadSim einzutragen und so erste Einschätzungen zum Rad-Durchgangsverkehr zu bekommen bietet das Tool die Möglichkeit, konkret den Ausbau argumentierbar zu machen, indem man darstellt, das sich die Verlagerung auf gewisse Faktoren zurückführen lässt\n\nBei unattraktiver oder fehlender Radinfrastruktur lassen sich außerdem Alternativvorschläge (auch zur Erschließung) im Kontext eines Quartiersausbaus/neubaus bringen und untersuchen\n\naußerdem auch interessant, da es in dem vorhin angesprochenen Bereich der Verkehrsmodellierung ein Vorreiter ist – möglich wären solche übergreifenden Simulationstools z.B. auch für untersuchte Mobilitätsmaßnahmen",
+          "11"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Relevanz für Ingenieurbüros",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Relevanz für Ingenieurbüros",
+                "runs": [
+                  {
+                    "text": "Relevanz für Ingenieurbüros",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "Trotz eigener Verkehrsmodelle ist die schnelle Abschätzung und Nutzung von RadSim zur Handreiche von Handlungsempfehlungen bzw. für den Szenariencheck aufgrund der wissenschaftlichen Fundiertheit sinnvoll. Die Registrierung als Ingenieurbüro ist derzeit schon möglich. Freigeschalten sind bisher zwar nur Kommunen, absehbar werden das aber auch Ingenieurbüros.\n\n- \n\nFür Hamburg stehen ca. 194.000 Fahrten von ca. 10.000 Radfahrenden aus der STADTRADELN 2024 Kampagne zur Simulation bereit.",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Trotz eigener Verkehrsmodelle ist die schnelle Abschätzung und Nutzung von RadSim zur Handreiche von Handlungsempfehlungen bzw. für den Szenariencheck aufgrund der wissenschaftlichen Fundiertheit sinnvoll. Die Registrierung als Ingenieurbüro ist derzeit schon möglich. Freigeschalten sind bisher zwar nur Kommunen, absehbar werden das aber auch Ingenieurbüros.",
+                "runs": [
+                  {
+                    "text": "Trotz eigener Verkehrsmodelle ist die schnelle Abschätzung und Nutzung von ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "RadSim",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur Handreiche von Handlungsempfehlungen bzw. für den ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Szenariencheck",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " aufgrund der wissenschaftlichen Fundiertheit sinnvoll. Die Registrierung als Ingenieurbüro ist derzeit schon möglich. Freigeschalten sind bisher zwar nur Kommunen, absehbar werden das aber auch Ingenieurbüros.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "- ",
+                "runs": [
+                  {
+                    "text": "- ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "Für Hamburg stehen ca. 194.000 Fahrten von ca. 10.000 Radfahrenden aus der STADTRADELN 2024 Kampagne zur Simulation bereit.",
+                "runs": [
+                  {
+                    "text": "Für ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Hamburg",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " stehen ca. 194.000 Fahrten von ca. 10.000 Radfahrenden aus der STADTRADELN 2024 Kampagne zur Simulation bereit.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Grafik 6",
+            "shape_type": "PICTURE (13)",
+            "left": 2949242,
+            "top": 1493995,
+            "width": 7052008,
+            "height": 2325158,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 12,
+        "shape_count": 4,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 7",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3909967,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Finn Jedding",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Finn Jedding",
+                "runs": [
+                  {
+                    "text": "Finn Jedding",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 8",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3722377,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Ansprechpartner:in",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Ansprechpartner:in",
+                "runs": [
+                  {
+                    "text": "Ansprechpartner:in",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 9",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4408418,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "F.Jedding@argus-hh.de\nargus-studio.de",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "F.Jedding@argus-hh.de",
+                "runs": [
+                  {
+                    "text": "F.Jedding@argus-hh.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "argus-studio.de",
+                "runs": [
+                  {
+                    "text": "argus-studio.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 10",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4220828,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Kontakt",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Kontakt",
+                "runs": [
+                  {
+                    "text": "Kontakt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

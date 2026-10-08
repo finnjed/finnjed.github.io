@@ -1,0 +1,12 @@
+{
+  "cache_format_version": 1,
+  "created_at": "2026-10-07T23:43:20.356025+00:00",
+  "source_signature": {
+    "relative_path": "export_argus/morning sessions/2026-07-10_FreieGeodatenUndMobilitätskonzepte.pptx",
+    "size_bytes": 9160840,
+    "modified_ns": 1789736324000000000,
+    "extraction_version": "1.0.0"
+  },
+  "extraction_file": "1e83d323e75469eab7125ac4f8247f94c1f6e29b8f8d845546041107d1073448.pptx.extracted.json",
+  "extraction_characters": 56947
+}

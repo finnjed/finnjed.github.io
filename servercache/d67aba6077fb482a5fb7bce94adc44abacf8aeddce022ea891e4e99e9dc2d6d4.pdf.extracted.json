@@ -1,0 +1,43 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-08T10:02:06.568351+00:00",
+  "source": {
+    "path": "export_argus/sonnenland/parkflaechen_sonnenland.pdf",
+    "name": "parkflaechen_sonnenland.pdf",
+    "extension": ".pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 3263123,
+    "modified_timestamp": 1777471732.0,
+    "modified_iso": "2026-04-29T14:08:52+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "pdf",
+    "encrypted": false,
+    "metadata": {
+      "/Author": "Finn Jedding | ARGUS",
+      "/CreationDate": "D:20260429133253+2'0'",
+      "/Creator": "QGIS 4.0.0-Norrköping",
+      "/Producer": "QGIS 4.0.0-Norrköping"
+    },
+    "page_count": 1,
+    "total_extracted_characters": 0,
+    "pages_without_extracted_text": [
+      1
+    ],
+    "possible_scan_pdf": true,
+    "pages": [
+      {
+        "page_number": 1,
+        "width_points": 842.0,
+        "height_points": 595.0,
+        "character_count": 0,
+        "text": "",
+        "extraction_error": null
+      }
+    ]
+  }
+}

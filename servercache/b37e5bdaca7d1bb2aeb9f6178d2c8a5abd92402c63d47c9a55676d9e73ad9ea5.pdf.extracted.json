@@ -1,0 +1,67 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-08T10:02:06.254026+00:00",
+  "source": {
+    "path": "export_argus/bratislava.pdf",
+    "name": "bratislava.pdf",
+    "extension": ".pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 329059,
+    "modified_timestamp": 1790347202.0,
+    "modified_iso": "2026-09-25T14:40:02+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "pdf",
+    "encrypted": false,
+    "metadata": {
+      "/Title": "",
+      "/Author": "Simon Schuster",
+      "/CreationDate": "D:20260925164000+02'00'",
+      "/ModDate": "D:20260925164000+02'00'",
+      "/Producer": "Microsoft® PowerPoint® für Microsoft 365",
+      "/Creator": "Microsoft® PowerPoint® für Microsoft 365"
+    },
+    "page_count": 4,
+    "total_extracted_characters": 7452,
+    "pages_without_extracted_text": [],
+    "possible_scan_pdf": false,
+    "pages": [
+      {
+        "page_number": 1,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1809,
+        "text": "                                                    comparable            projects\n                                                    parking       ratio\n\n   Internationale\n   Vergleichbeispiele mit                           Comparable       projects    across\n   Stellplatzschlüssel 0,4 bis                      nations    show,   depending      on\n   0,8 in diesem Stil darstellen                    goals set by the developer and\n                                                    structural      properties      that\n                                                    parking    ratios  per   residental\n                                                    unit  span   from   0,5 to  0,8. The\n                                                    lower    end   of   this  range    is\n                                                    typically    not    achieved      by\n                                                    reducing    parking  alone,  but  by\n                                                    combining       reduced     parking\n                                                    supply   with  supportive   mobility\n                                                    conditions:         high-capacity\n                                                    public     transport,      walkable\n                                                    everyday     services,   regulated\n                                                    on-street   parking,   high-quality\nbeschreiben;                                        bicycle     infrastructure,     car-\n                                                    sharing,    and    centralized     or\n                                                    priced  parking.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                    1",
+        "extraction_error": null
+      },
+      {
+        "page_number": 2,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1227,
+        "text": "required parking space\ncar ownership\nestimation\n\nThe  influencing    factors  of  the\ncurrent    amount     of   cars    in\nBratislava and its distribution is\nmapped      in   the   chart    and\ndisplays        the       probable\nheterogeneity     throughout     the\nbounds of the city districts.\nNeighbourhood-context such\nas accessibility, proximity and\nurban forms correlates heavily\nwith the car ownership of the\nresidents in new, related\nquarter. Hence, the view on car\nownership has to be seen\nrather in neighbourhood than\nin citywide context and                                                                                                                                              cars / 1000 res.\ncombined with the planned\nproperties of car ownership in\nthe winter harbour area.\nThe model proposes ca. 300\ncars per 1000 people which\nmakes for about 480 cars per\n1000 households in Ruzinov.\n\n *numbers are estimated through\n indicators of car ownership p.p. such\n as residental density, demographics,\n accessibility of public transit and\n centres of importance and parking\n management.\n2\n\n\n\n\n   Datenquellen:\n\n   PKW-Besitzquote: PKW p.1000 EW\n   https://krajskemesta.statistics.sk/transport_enviroment.php?lang=sk",
+        "extraction_error": null
+      },
+      {
+        "page_number": 3,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 3168,
+        "text": "influence-based\nparking space\ncalculation\nThe „Stiftung Lebendige Stadt“\ncalculation tool was developed by\nscientists at the technical                                       0,8                                                0,9                                               0,8\nuniversity of hamburg to find the\nexpected amount of cars owned                   Basisfaktor Quartierstyp                           Factor local amenities                              Factor mixed use\nin a special area based on the                  The area features a high                           In 15 minutes from all areas of                     Different types of facilities in- and\nvarying factors influencing this                quantity and density of                            the project area a shop can be                      outside of the district lead make up for\nfeature.                                        residental use units                               reached                                             a high mixed use\n\nApplying this tool to the numbers\nresulting from current plans, it                                  0,8                                               1,0                                                0,9\nshows that it predicts a low car\nownership resulting in 0,24\nparking lots per residental unit.               Factor bus                                         Factor rail                                         Factor travel time\nWhile it is adjusted through                    Much of the residental usage is                    There is no rail-based                              The closeness of the Eurovea and city\nOsnabrück and Hamburg, which                    accessible in close proximity to the               connection other than the tram.                     centre together with prior factors\nreduces the transferability, it is              bus stops situated around the                                                                          makes up for a good travel time\n                                                project area\nexplicitly designed to be used                                                                                                                                                                                            Für Quartier berechnen,\nacross europe.                                                                                                                                        ~ 0,4                                                               übersetzen\n                                                                  1,0                                               1,0\n                                                                                                                                                      parking lots per\n                                                Faktor household size                              Faktor income\n                                                A balanced size is prevalent                       Assumed is average to high income                  residental unit\n\n\n\nSource: Stiftung Lebendige Stadt 2021\n\n\n\n\n3",
+        "extraction_error": null
+      },
+      {
+        "page_number": 4,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1248,
+        "text": "conclusions\n\n                                                   bandwith      of parking      spaces\nThe foregone references indicate                          per residental      unit                                   0,5-\nthat less fewer parking spaces                            from    comparable\nthan residental units are\nappropriate, based on the                                        projects                                            0,8\ncircumstances and reference\nexamples of implementation. To\nlower the overall cost of the\nconstruction of parking space as\nwell as to reduce incentives to\nmotorized private mobility, the\nrecommendation is to lower the\namount of parking space.                                        modelled\n                                                       stock of vehicles       in the                                           0,43\n                                                              project    area\n\n\n\n\n\n\n                                                     required     parking     spaces\n                                                    based     on main      influencing                              0,4\n                                                      factors   of car   possession\n\n\n\n\n4",
+        "extraction_error": null
+      }
+    ]
+  }
+}

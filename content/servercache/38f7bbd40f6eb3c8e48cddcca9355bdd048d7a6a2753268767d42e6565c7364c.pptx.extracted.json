@@ -1,0 +1,5102 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-07T23:43:19.695290+00:00",
+  "source": {
+    "path": "export_argus/morning sessions/2026-06-24_COM-B & SSBC.pptx",
+    "name": "2026-06-24_COM-B & SSBC.pptx",
+    "extension": ".pptx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size_bytes": 28754381,
+    "modified_timestamp": 1789734936.0,
+    "modified_iso": "2026-09-18T12:35:36+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "powerpoint",
+    "core_properties": {
+      "title": "",
+      "subject": "",
+      "author": "Finn Jedding | ARGUS",
+      "keywords": "",
+      "comments": "",
+      "last_modified_by": "Finn Jedding | ARGUS",
+      "created": "2026-05-27T14:41:52",
+      "modified": "2026-06-23T15:00:54",
+      "revision": 3,
+      "category": "",
+      "content_status": "",
+      "identifier": "",
+      "language": "",
+      "version": ""
+    },
+    "slide_width": 12192000,
+    "slide_height": 6858000,
+    "slide_count": 11,
+    "slides": [
+      {
+        "slide_number": 1,
+        "shape_count": 3,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "status quo",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "status quo",
+                "runs": [
+                  {
+                    "text": "status",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " quo",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 3",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (1/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (1/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (1/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 10515600,
+            "height": 3454144,
+            "rotation": 0.0,
+            "text": "in einigen konzepten existiert bereits eine segmentierung der zielgruppen\ndiese beschränkt sich oft auf soziostrukturelle merkmale, mobilitätsmomente, …\nmaßnahmen sind v.a. infrastrukturell ausgerichtet – in vielen projekten (z.B. innh. hamburgs) auch aufgrund von u.a. bauprüfdienst\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "in einigen konzepten existiert bereits eine segmentierung der zielgruppen",
+                "runs": [
+                  {
+                    "text": "in einigen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "konzepten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " existiert bereits eine ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "segmentierung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "zielgruppen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "diese beschränkt sich oft auf soziostrukturelle merkmale, mobilitätsmomente, …",
+                "runs": [
+                  {
+                    "text": "diese beschränkt sich oft auf soziostrukturelle ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "merkmale",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ", ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilitätsmomente",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ", …",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "maßnahmen sind v.a. infrastrukturell ausgerichtet – in vielen projekten (z.B. innh. hamburgs) auch aufgrund von u.a. bauprüfdienst",
+                "runs": [
+                  {
+                    "text": "maßnahmen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " sind v.a. infrastrukturell ausgerichtet – in vielen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "projekten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " (z.B. ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "innh",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ". ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "hamburgs",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ") auch aufgrund von u.a. ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "bauprüfdienst",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 2,
+        "shape_count": 3,
+        "notes": [
+          "2"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "relevanz",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "relevanz",
+                "runs": [
+                  {
+                    "text": "relevanz",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 10515600,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "grundsatzfrage: wie können personen motiviert werden, ihr derzeitiges verhalten zu ändern und umweltfreundlichere alternativen zu wählen?\nwie wird „verhalten“ abseits von angebotszentrierter planung erklärt?\nwelche psychologischen phasen durchlaufen personen bei einer verhaltensänderung?\n➔ wie müssen (mobilitäts)maßnahmen gestaltet sein, um menschen bei der verhaltensänderung zu unterstützen?\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "grundsatzfrage: wie können personen motiviert werden, ihr derzeitiges verhalten zu ändern und umweltfreundlichere alternativen zu wählen?",
+                "runs": [
+                  {
+                    "text": "grundsatzfrage",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ": wie können ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "personen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " motiviert werden, ihr derzeitiges verhalten zu ändern und umweltfreundlichere alternativen zu wählen?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "wie wird „verhalten“ abseits von angebotszentrierter planung erklärt?",
+                "runs": [
+                  {
+                    "text": "wie wird „verhalten“ abseits von angebotszentrierter ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "planung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " erklärt?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "welche psychologischen phasen durchlaufen personen bei einer verhaltensänderung?",
+                "runs": [
+                  {
+                    "text": "welche psychologischen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "phasen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " durchlaufen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "personen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " bei einer ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "➔ wie müssen (mobilitäts)maßnahmen gestaltet sein, um menschen bei der verhaltensänderung zu unterstützen?",
+                "runs": [
+                  {
+                    "text": "➔ wie müssen (",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilitäts",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": ")",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "maßnahmen",
+                    "bold": true,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " gestaltet sein, um ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "menschen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " bei der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " zu unterstützen?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität  (1/3",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität  (1/3",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "  (1/3",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 3,
+        "shape_count": 4,
+        "notes": [
+          "modell \nCOM B\n\n-vereint unter anderem psychologie, soziologie, medizin indem 19 verschiedene theorien zur verhaltensänderung\n-ist evaluiert und wird u.a. von WHO, britischem national health service genutzt\n-gewann an popularität, da reine information und das zurückführen auf non-compliance im medizinischen kontext unterkomplex war",
+          "3"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 15",
+            "shape_type": "PICTURE (13)",
+            "left": 2399,
+            "top": 0,
+            "width": 12187201,
+            "height": 6858000,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "com-b-modell",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "com-b-modell",
+                "runs": [
+                  {
+                    "text": "c",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "o",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "m",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "b",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "-modell",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "wirkmodell um behaviour zu erklären:\ncapability: merkmal, das zusammen mit motivation ein verhalten erleichtert\nopportunity: ressourcen, zeit, passendes soziales setting\nmotivation: bewusste und unbewusste prozesse\nkann leitlinie für angestrebte verhaltensänderung sein\nbietet außerdem interventionen zur verhaltensänderung über behaviour change wheel\n\n\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "wirkmodell um behaviour zu erklären:",
+                "runs": [
+                  {
+                    "text": "wirkmodell",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " um ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "b",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "ehaviour",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zu erklären:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "capability: merkmal, das zusammen mit motivation ein verhalten erleichtert",
+                "runs": [
+                  {
+                    "text": "c",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "apability",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ": ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "merkmal",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", das zusammen mit ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "motivation",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ein verhalten erleichtert",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "opportunity: ressourcen, zeit, passendes soziales setting",
+                "runs": [
+                  {
+                    "text": "o",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "pportunity",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ": ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "ressourcen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", zeit, passendes soziales ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "setting",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "motivation: bewusste und unbewusste prozesse",
+                "runs": [
+                  {
+                    "text": "m",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "otivation",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ": bewusste und unbewusste ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "prozesse",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "kann leitlinie für angestrebte verhaltensänderung sein",
+                "runs": [
+                  {
+                    "text": "kann ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "leitlinie",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " für angestrebte ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " sein",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 6,
+                "level": 0,
+                "text": "bietet außerdem interventionen zur verhaltensänderung über behaviour change wheel",
+                "runs": [
+                  {
+                    "text": "bietet außerdem ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "interventionen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " über ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "behaviour",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "change",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "wheel",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 7,
+                "level": 1,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 8,
+                "level": 1,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 9,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (2/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (2/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (2/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 4,
+        "shape_count": 28,
+        "notes": [
+          "Physische Fähigkeit (Physical capability): hat jemand die motorischen fähigkeiten, energie und werkzeuge um ein verhalten auszuüben?\npsychische Fähigkeit (Psychological capability): hat jemand die mentalen kapazitäten, vorwissen/erfahrung/verständnis um eine handlung auszuführen?\nReflektierte Motivation (Reflective motivation): besteht motivation, die aus bewussten, rationalen und kognitiven prozessen (pläne, abwägungen) hervorgeht? \nAutomatische Motivation (Automatic motivation): besteht motivation, die aus habitualisierten, instinktiven Prozessen oder Automatismen hervorgeht?\nPhysische Gelegenheit (Physical opportunity): besteht Gelegenheit, die unbelebte Teile des Umfelds sowie Zeit betrifft (z. B. finanzielle und materielle Ressourcen).?\nSoziale Gelegenheit (Social opportunity): besteht Gelegenheit, die andere Menschen und Organisationen einbezieht (z. B. Kultur und soziale Normen).?\n\n\nFähigkeiten und Gelegenheiten sind als Prämisse zu verstehen, damit Motivation das Verhalten wirksam ändern kann\neigene Fähigkeit und förderliche Umwelt steigern die Motivation\nDas ausgeführte Verhalten wirkt auf alle 3 Faktoren zurück (z. B. Autofahren üben steigert die Fähigkeit, was wiederum die Motivation erhöht)\nDa viele Möglichkeiten abgewägt werden, hilft es teils genau auf die nicht erwünschten Alternativverhaltensweisen einzuwirken, wie auf die Zielverhaltensweisen\n\n\n-> wie kann die mobilität",
+          "4"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Rechteck: abgerundete Ecken 22",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 483476,
+            "top": 4267200,
+            "width": 5244662,
+            "height": 1506139,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 4",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (2/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (2/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (2/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Grafik 11",
+            "shape_type": "PICTURE (13)",
+            "left": 0,
+            "top": -7043793,
+            "width": 12192000,
+            "height": 6338943,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 4,
+            "name": "Rechteck: abgerundete Ecken 12",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584200,
+            "top": 403972,
+            "width": 1643993,
+            "height": 587327,
+            "rotation": 0.0,
+            "text": "physical",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "physical",
+                "runs": [
+                  {
+                    "text": "physical",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Rechteck: abgerundete Ecken 13",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584197,
+            "top": 1084661,
+            "width": 1643996,
+            "height": 587327,
+            "rotation": 0.0,
+            "text": "psychological",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "psychological",
+                "runs": [
+                  {
+                    "text": "psychological",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 177800
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Rechteck: abgerundete Ecken 14",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584197,
+            "top": 2353689,
+            "width": 1643996,
+            "height": 588100,
+            "rotation": 0.0,
+            "text": "reflective",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "reflective",
+                "runs": [
+                  {
+                    "text": "reflective",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Rechteck: abgerundete Ecken 15",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584197,
+            "top": 3034378,
+            "width": 1643996,
+            "height": 587328,
+            "rotation": 0.0,
+            "text": "automatic",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "automatic",
+                "runs": [
+                  {
+                    "text": "automatic",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Rechteck: abgerundete Ecken 20",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584197,
+            "top": 4371556,
+            "width": 1643996,
+            "height": 587328,
+            "rotation": 0.0,
+            "text": "physical",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "physical",
+                "runs": [
+                  {
+                    "text": "physical",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Rechteck: abgerundete Ecken 21",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 584197,
+            "top": 5051473,
+            "width": 1643996,
+            "height": 587328,
+            "rotation": 0.0,
+            "text": "social",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "social",
+                "runs": [
+                  {
+                    "text": "social",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Rechteck: abgerundete Ecken 23",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 483476,
+            "top": 2244329,
+            "width": 5244662,
+            "height": 1506139,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 11,
+            "name": "Rechteck: abgerundete Ecken 24",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 483476,
+            "top": 298744,
+            "width": 5244662,
+            "height": 1506139,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 12,
+            "name": "Textfeld 25",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 2944068,
+            "top": 790203,
+            "width": 2068195,
+            "height": 523220,
+            "rotation": 0.0,
+            "text": "capability",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "capability",
+                "runs": [
+                  {
+                    "text": "capability",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 355600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 13,
+            "name": "Textfeld 26",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 2944068,
+            "top": 2735788,
+            "width": 2236510,
+            "height": 523220,
+            "rotation": 0.0,
+            "text": "motivation",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "motivation",
+                "runs": [
+                  {
+                    "text": "motivation",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 355600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 14,
+            "name": "Textfeld 27",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 2944067,
+            "top": 4758659,
+            "width": 2393604,
+            "height": 523220,
+            "rotation": 0.0,
+            "text": "opportunity",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "opportunity",
+                "runs": [
+                  {
+                    "text": "opportunity",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 355600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 15,
+            "name": "Gleichschenkliges Dreieck 30",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 578505,
+            "top": 3874583,
+            "width": 5054603,
+            "height": 238582,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 16,
+            "name": "Rechteck: abgerundete Ecken 38",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 7450153,
+            "top": 2526181,
+            "width": 3595558,
+            "height": 1016394,
+            "rotation": 0.0,
+            "text": "behaviour",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "behaviour",
+                "runs": [
+                  {
+                    "text": "behaviour",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": 355600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 17,
+            "name": "Pfeil: nach rechts 70",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 5981700,
+            "top": 2647739,
+            "width": 1052204,
+            "height": 777163,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 18,
+            "name": "Pfeil: nach rechts 79",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 6211372,
+            "top": 508936,
+            "width": 695043,
+            "height": 1154392,
+            "rotation": 90.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 19,
+            "name": "Pfeil: nach rechts 80",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 6211371,
+            "top": 4474277,
+            "width": 695043,
+            "height": 1154392,
+            "rotation": 270.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 20,
+            "name": "Gleichschenkliges Dreieck 81",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 578505,
+            "top": 1897472,
+            "width": 5054603,
+            "height": 108265,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 21,
+            "name": "Gleichschenkliges Dreieck 82",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 578505,
+            "top": 2026617,
+            "width": 5054603,
+            "height": 108265,
+            "rotation": 180.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 22,
+            "name": "Gerader Verbinder 92",
+            "shape_type": "LINE (9)",
+            "left": 11045711,
+            "top": 2994286,
+            "width": 841489,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 23,
+            "name": "Gerader Verbinder 94",
+            "shape_type": "LINE (9)",
+            "left": 11887200,
+            "top": 2994286,
+            "width": 0,
+            "height": 3508114,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 24,
+            "name": "Gerader Verbinder 96",
+            "shape_type": "LINE (9)",
+            "left": 243840,
+            "top": 6502400,
+            "width": 11643360,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 25,
+            "name": "Gerader Verbinder 99",
+            "shape_type": "LINE (9)",
+            "left": 243840,
+            "top": 1051814,
+            "width": 0,
+            "height": 5450586,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 26,
+            "name": "Gerade Verbindung mit Pfeil 109",
+            "shape_type": "LINE (9)",
+            "left": 243840,
+            "top": 1051814,
+            "width": 239636,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 27,
+            "name": "Gerade Verbindung mit Pfeil 110",
+            "shape_type": "LINE (9)",
+            "left": 243840,
+            "top": 2993588,
+            "width": 239636,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 28,
+            "name": "Gerade Verbindung mit Pfeil 111",
+            "shape_type": "LINE (9)",
+            "left": 243840,
+            "top": 5031938,
+            "width": 239636,
+            "height": 0,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 5,
+        "shape_count": 6,
+        "notes": [
+          "hilft, lücken in maßnahmenlisten sichtbar zu machen\n\nbeispiele:\n\nBeispielfragen\nMobilitätsmoment \nWocheneinkauf \nphysical capability: lastenrad-fahren zu anstrengend\npsychological capability:",
+          "5"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 3",
+            "shape_type": "PICTURE (13)",
+            "left": 2399,
+            "top": 0,
+            "width": 12187201,
+            "height": 6858000,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "com-b-modell in der anwendung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "com-b-modell in der anwendung",
+                "runs": [
+                  {
+                    "text": "com",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "-b-modell in der ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "anwendung",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "nutzendenzentriert verhalten erklären:\nqualitäts-checkliste für mobilitätsmomente, nutzendengruppen, vollständige maßnahmen\nnutzendenzentriert verhalten ändern\ninstrument zur zielfindung/problemstellung\nleitfaden für interventionsentwicklung\nbehaviour change wheel\n\n\n\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "nutzendenzentriert verhalten erklären:",
+                "runs": [
+                  {
+                    "text": "nutzendenzentriert verhalten erklären:",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "qualitäts-checkliste für mobilitätsmomente, nutzendengruppen, vollständige maßnahmen",
+                "runs": [
+                  {
+                    "text": "qualitäts-",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "checkliste",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " für ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilitätsmomente",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "nutzendengruppen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", vollständige ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "maßnahmen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "nutzendenzentriert verhalten ändern",
+                "runs": [
+                  {
+                    "text": "nutzendenzentriert verhalten ändern",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "instrument zur zielfindung/problemstellung",
+                "runs": [
+                  {
+                    "text": "instrument",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "zielfindung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "/",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "problemstellung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 1,
+                "text": "leitfaden für interventionsentwicklung",
+                "runs": [
+                  {
+                    "text": "leitfaden",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " für ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "interventionsentwicklung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 6,
+                "level": 1,
+                "text": "behaviour change wheel",
+                "runs": [
+                  {
+                    "text": "behaviour",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "change",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "wheel",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 7,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 8,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 9,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 10,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textfeld 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (2/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (2/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (2/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 990600,
+            "top": 1978025,
+            "width": 10515600,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 990600,
+            "top": 1978025,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 6,
+        "shape_count": 4,
+        "notes": [
+          "(punkt 1)\nssbc – also stage model of self regulated behaviour change teilt eine verhaltensänderung in 4 kognitive phasen ein\ndabei soll oft von einer gewohnheit zur anderen gewechselt werden \nssbc ist eine adaption eines weltweit verbreiteten modells zur verhaltenseinteilung (TTM), geht aber eher davon aus, dass verhalten in normen begründed sind, weniger in nutzen (homo oeconomicus)\n\n2013 von Sebastian Bamberg",
+          "6"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 3",
+            "shape_type": "PICTURE (13)",
+            "left": 4799,
+            "top": 0,
+            "width": 12187201,
+            "height": 6858000,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "ssbc",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "ssbc",
+                "runs": [
+                  {
+                    "text": "ssbc",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "psychologisches stufenmodell der selbstregulierten verhaltensänderung versteht verhaltensänderung als aktiven, zielgerichteten prozess, nicht als ad hoc stattfindend\nphasenübergang, sobald intention mit gewisser charakteristik erreicht ist\nerklärt, warum standard-appelle oft scheitern und wo und wie man ansetzen muss, um eine person zu erreichen\nverbessert gerade bei längsschnitt-interventionen die wirksamkeit von maßnahmen signifikant\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "psychologisches stufenmodell der selbstregulierten verhaltensänderung versteht verhaltensänderung als aktiven, zielgerichteten prozess, nicht als ad hoc stattfindend",
+                "runs": [
+                  {
+                    "text": "psychologisches ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "stufenmodell",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " der selbstregulierten ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " versteht ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensänderung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " als aktiven, zielgerichteten ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "prozess",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", nicht als ad hoc stattfindend",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "phasenübergang, sobald intention mit gewisser charakteristik erreicht ist",
+                "runs": [
+                  {
+                    "text": "phasenübergang",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": ", sobald ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "intention",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " mit gewisser ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "charakteristik",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " erreicht ist",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "erklärt, warum standard-appelle oft scheitern und wo und wie man ansetzen muss, um eine person zu erreichen",
+                "runs": [
+                  {
+                    "text": "erklärt, warum standard-appelle oft scheitern und wo und wie man ansetzen muss, um eine ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "person",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zu erreichen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "verbessert gerade bei längsschnitt-interventionen die wirksamkeit von maßnahmen signifikant",
+                "runs": [
+                  {
+                    "text": "verbessert gerade bei längsschnitt-interventionen die ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "wirksamkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " von ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "maßnahmen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " signifikant",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (2/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (2/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (2/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 7,
+        "shape_count": 24,
+        "notes": [
+          "Norm= Richtlinie, eine Regel oder einen Standard",
+          "7"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "prä-dezisionale phase",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "prä-dezisionale phase",
+                "runs": [
+                  {
+                    "text": "prä-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "dezisionale",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "phase",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität  (3/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität  (3/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "  (3/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Gleichschenkliges Dreieck 2",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 0,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 180.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Gleichschenkliges Dreieck 3",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 3429000,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 9",
+            "shape_type": "PICTURE (13)",
+            "left": 5836482,
+            "top": -4924375,
+            "width": 5292000,
+            "height": 4356000,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 6,
+            "name": "Textfeld 11",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 4851038,
+            "top": 2537460,
+            "width": 1720536,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "saliente soziale\nNorm",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "saliente soziale",
+                "runs": [
+                  {
+                    "text": "saliente soziale",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Norm",
+                "runs": [
+                  {
+                    "text": "Norm",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Textfeld 12",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7169355,
+            "top": 4982599,
+            "width": 2211566,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "negative Verhaltens-\nkonsequenzen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "negative Verhaltens-",
+                "runs": [
+                  {
+                    "text": "negative Verhaltens-",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "konsequenzen",
+                "runs": [
+                  {
+                    "text": "konsequenzen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Textfeld 13",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7183942,
+            "top": 4024379,
+            "width": 2211566,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "wahrgenommene\nVerantwortung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "wahrgenommene",
+                "runs": [
+                  {
+                    "text": "wahrgenommene",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Verantwortung",
+                "runs": [
+                  {
+                    "text": "Verantwortung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Textfeld 14",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7198528,
+            "top": 3378048,
+            "width": 2182393,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "negative Gefühle",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "negative Gefühle",
+                "runs": [
+                  {
+                    "text": "negative Gefühle",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Textfeld 15",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7213114,
+            "top": 2675960,
+            "width": 2182393,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "persönliche Norm",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "persönliche Norm",
+                "runs": [
+                  {
+                    "text": "persönliche Norm",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 11,
+            "name": "Textfeld 16",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7198528,
+            "top": 1429465,
+            "width": 2211565,
+            "height": 923330,
+            "rotation": 0.0,
+            "text": "mit Normerfüllung\nantizipierte\npositive Gefühle",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "mit Normerfüllung",
+                "runs": [
+                  {
+                    "text": "mit Normerfüllung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "antizipierte",
+                "runs": [
+                  {
+                    "text": "antizipierte",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "positive Gefühle",
+                "runs": [
+                  {
+                    "text": "positive Gefühle",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 12,
+            "name": "Textfeld 17",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9920785,
+            "top": 2547052,
+            "width": 1518814,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "(neue)\nZielintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "(neue)",
+                "runs": [
+                  {
+                    "text": "(neue)",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Zielintention",
+                "runs": [
+                  {
+                    "text": "Zielintention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 13,
+            "name": "Verbinder: gewinkelt 19",
+            "shape_type": "LINE (9)",
+            "left": 5711306,
+            "top": 3183791,
+            "width": 1472636,
+            "height": 1163754,
+            "rotation": 180.0
+          },
+          {
+            "shape_number": 14,
+            "name": "Gerade Verbindung mit Pfeil 21",
+            "shape_type": "LINE (9)",
+            "left": 6571574,
+            "top": 2860625,
+            "width": 641540,
+            "height": 1,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 15,
+            "name": "Gerade Verbindung mit Pfeil 23",
+            "shape_type": "LINE (9)",
+            "left": 9395507,
+            "top": 2860626,
+            "width": 525278,
+            "height": 9592,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 16,
+            "name": "Verbinder: gewinkelt 25",
+            "shape_type": "LINE (9)",
+            "left": 9388214,
+            "top": 1624602,
+            "width": 1291978,
+            "height": 922450,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 17,
+            "name": "Gerade Verbindung mit Pfeil 27",
+            "shape_type": "LINE (9)",
+            "left": 8304311,
+            "top": 2352795,
+            "width": 0,
+            "height": 323165,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 18,
+            "name": "Gerade Verbindung mit Pfeil 28",
+            "shape_type": "LINE (9)",
+            "left": 8297017,
+            "top": 3045292,
+            "width": 7294,
+            "height": 325620,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 19,
+            "name": "Gerade Verbindung mit Pfeil 29",
+            "shape_type": "LINE (9)",
+            "left": 8289725,
+            "top": 3747380,
+            "width": 0,
+            "height": 276999,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 20,
+            "name": "Gerade Verbindung mit Pfeil 30",
+            "shape_type": "LINE (9)",
+            "left": 8282430,
+            "top": 4676894,
+            "width": 0,
+            "height": 270815,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 21,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 3774614,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "erklärung der bildung von intentionen\nhandlungsansätze um die bildung einer neuen zielintention voranzutreiben\n\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "erklärung der bildung von intentionen",
+                "runs": [
+                  {
+                    "text": "erklärung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "bildung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " von ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "intentionen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "handlungsansätze um die bildung einer neuen zielintention voranzutreiben",
+                "runs": [
+                  {
+                    "text": "handlungsansätze",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " um die ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "bildung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " einer neuen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "zielintention",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " voranzutreiben",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 22,
+            "name": "Textfeld 33",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9581702,
+            "top": 3378048,
+            "width": 2211566,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "wahrgenommene\nZielerreichbarkeit",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "wahrgenommene",
+                "runs": [
+                  {
+                    "text": "wahrgenommene",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Zielerreichbarkeit",
+                "runs": [
+                  {
+                    "text": "Zielerreichbarkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 23,
+            "name": "Gerade Verbindung mit Pfeil 34",
+            "shape_type": "LINE (9)",
+            "left": 10687485,
+            "top": 3039225,
+            "width": 0,
+            "height": 338823,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 24,
+            "name": "Pfeil: nach rechts 47",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11454186,
+            "top": 2547052,
+            "width": 362327,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 8,
+        "shape_count": 11,
+        "notes": [
+          "8"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "prä-aktionale phase",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "prä-aktionale phase",
+                "runs": [
+                  {
+                    "text": "prä-aktionale ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "phase",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session - verhalten und mobilität (3/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session - verhalten und mobilität (3/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " - verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (3/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Gleichschenkliges Dreieck 2",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 0,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 180.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Gleichschenkliges Dreieck 3",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 3429000,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textfeld 4",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 8716638,
+            "top": 3626311,
+            "width": 1923860,
+            "height": 2308324,
+            "rotation": 0.0,
+            "text": "Einstellung zu \nund \nwahrgenommene\nKontrolle über\nAusführung\nalternativer\nVerhaltens-\nstrategien",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Einstellung zu ",
+                "runs": [
+                  {
+                    "text": "Einstellung zu ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "und ",
+                "runs": [
+                  {
+                    "text": "und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "wahrgenommene",
+                "runs": [
+                  {
+                    "text": "wahrgenommene",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "Kontrolle über",
+                "runs": [
+                  {
+                    "text": "Kontrolle über",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "Ausführung",
+                "runs": [
+                  {
+                    "text": "Ausführung",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 6,
+                "level": 0,
+                "text": "alternativer",
+                "runs": [
+                  {
+                    "text": "alternativer",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 7,
+                "level": 0,
+                "text": "Verhaltens-",
+                "runs": [
+                  {
+                    "text": "Verhaltens-",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 8,
+                "level": 0,
+                "text": "strategien",
+                "runs": [
+                  {
+                    "text": "strategien",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Textfeld 5",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 8979883,
+            "top": 2338340,
+            "width": 1397370,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Verhaltens-\nintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Verhaltens-",
+                "runs": [
+                  {
+                    "text": "Verhaltens-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "intention",
+                "runs": [
+                  {
+                    "text": "intention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Pfeil: nach rechts 7",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 10377253,
+            "top": 2362386,
+            "width": 362327,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Gerade Verbindung mit Pfeil 10",
+            "shape_type": "LINE (9)",
+            "left": 9678568,
+            "top": 2984671,
+            "width": 0,
+            "height": 641640,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 9,
+            "name": "Textfeld 11",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7052605,
+            "top": 2332328,
+            "width": 1518814,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "(neue)\nZielintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "(neue)",
+                "runs": [
+                  {
+                    "text": "(neue)",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Zielintention",
+                "runs": [
+                  {
+                    "text": "Zielintention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Pfeil: nach rechts 12",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 8586006,
+            "top": 2332328,
+            "width": 362327,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 11,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 4469326,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "ziel ist gesetzt\nauswahl von passender verhaltensoption\nhier helfen maßnahmen zur stärkung der wahrgenommenen selbstwirksamkeit / verhaltenskontrolle\n\n\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "ziel ist gesetzt",
+                "runs": [
+                  {
+                    "text": "ziel ist gesetzt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "auswahl von passender verhaltensoption",
+                "runs": [
+                  {
+                    "text": "auswahl",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " von passender ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltensoption",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "hier helfen maßnahmen zur stärkung der wahrgenommenen selbstwirksamkeit / verhaltenskontrolle",
+                "runs": [
+                  {
+                    "text": "hier helfen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "maßnahmen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "stärkung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " der wahrgenommenen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "selbstwirksamkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " / ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "verhaltenskontrolle",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 5,
+                "level": 1,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 6,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 9,
+        "shape_count": 10,
+        "notes": [
+          "Plan B haben und das angestrebte Verhalten im Detail umsetzen zu können\n\növ statt rad",
+          "9"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "aktionale phase",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "aktionale phase",
+                "runs": [
+                  {
+                    "text": "aktionale ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "phase",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (3/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (3/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (3/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Gleichschenkliges Dreieck 2",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 0,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 180.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Gleichschenkliges Dreieck 3",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 11423648,
+            "top": 3429000,
+            "width": 1555751,
+            "height": 3429000,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Textfeld 4",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7392821,
+            "top": 2369871,
+            "width": 1397370,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Verhaltens-\nintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Verhaltens-",
+                "runs": [
+                  {
+                    "text": "Verhaltens-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "intention",
+                "runs": [
+                  {
+                    "text": "intention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Pfeil: nach rechts 5",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 8790191,
+            "top": 2393917,
+            "width": 362327,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 4469326,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "akteur intendiert unkonkretes verhalten\nkann aufgrund von informationen und strukturellen gegebenheiten konkret und flexibel planen\nhier kann über unterstützung in der planung und sicherheit über zielorientierte alternativen\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "akteur intendiert unkonkretes verhalten",
+                "runs": [
+                  {
+                    "text": "akteur",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " intendiert unkonkretes verhalten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "kann aufgrund von informationen und strukturellen gegebenheiten konkret und flexibel planen",
+                "runs": [
+                  {
+                    "text": "kann aufgrund von ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "informationen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " und strukturellen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "gegebenheiten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " konkret und flexibel planen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "hier kann über unterstützung in der planung und sicherheit über zielorientierte alternativen",
+                "runs": [
+                  {
+                    "text": "hier kann über ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "unterstützung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " in der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "planung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " und ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "sicherheit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " über zielorientierte alternativen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Textfeld 9",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9152758,
+            "top": 2369871,
+            "width": 2069605,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Implementations-\nintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Implementations-",
+                "runs": [
+                  {
+                    "text": "Implementations-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "intention",
+                "runs": [
+                  {
+                    "text": "intention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 9,
+            "name": "Textfeld 10",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9362622,
+            "top": 3666172,
+            "width": 1649875,
+            "height": 1477328,
+            "rotation": 0.0,
+            "text": "Fähigkeit\n-zu planen\n-Interventions-\nprobleme zu\nlösen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Fähigkeit",
+                "runs": [
+                  {
+                    "text": "Fähigkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "-zu planen",
+                "runs": [
+                  {
+                    "text": "-zu planen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "-Interventions-",
+                "runs": [
+                  {
+                    "text": "-Interventions-",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "probleme zu",
+                "runs": [
+                  {
+                    "text": "probleme",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": " zu",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "lösen",
+                "runs": [
+                  {
+                    "text": "lösen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Gerade Verbindung mit Pfeil 12",
+            "shape_type": "LINE (9)",
+            "left": 10187560,
+            "top": 3016202,
+            "width": 1,
+            "height": 649970,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 10,
+        "shape_count": 8,
+        "notes": [
+          "10"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "erhaltende phase",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "erhaltende phase",
+                "runs": [
+                  {
+                    "text": "erhaltende ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "phase",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textfeld 8",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (3/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (3/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (3/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 4469326,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "verhalten wurde umgesetzt\nstärkung der selbstwirksamkeit zur wiederaufnahme nach rückfällen\ndurch feedback zur bisherigen nutzung selbstwahrnehmung stärken",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "verhalten wurde umgesetzt",
+                "runs": [
+                  {
+                    "text": "verhalten wurde umgesetzt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "stärkung der selbstwirksamkeit zur wiederaufnahme nach rückfällen",
+                "runs": [
+                  {
+                    "text": "stärkung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " der ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "selbstwirksamkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "wiederaufnahme",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " nach ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "rückfällen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "durch feedback zur bisherigen nutzung selbstwahrnehmung stärken",
+                "runs": [
+                  {
+                    "text": "durch ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "feedback",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " zur bisherigen ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "nutzung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "selbstwahrnehmung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " stärken",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textfeld 7",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 7185466,
+            "top": 2369871,
+            "width": 2069606,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Implementations-\nintention",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Implementations-",
+                "runs": [
+                  {
+                    "text": "Implementations-",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "intention",
+                "runs": [
+                  {
+                    "text": "intention",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Pfeil: nach rechts 9",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 9255072,
+            "top": 2369871,
+            "width": 362327,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Textfeld 10",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9587465,
+            "top": 2369871,
+            "width": 1200200,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Neues \nVerhalten",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Neues ",
+                "runs": [
+                  {
+                    "text": "Neues ",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Verhalten",
+                "runs": [
+                  {
+                    "text": "Verhalten",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Textfeld 11",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 9059120,
+            "top": 3666172,
+            "width": 2256900,
+            "height": 646331,
+            "rotation": 0.0,
+            "text": "Selbstwirksamkeit\nzur Wiederaufnahme",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Selbstwirksamkeit",
+                "runs": [
+                  {
+                    "text": "Selbstwirksamkeit",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "zur Wiederaufnahme",
+                "runs": [
+                  {
+                    "text": "zur Wiederaufnahme",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 8,
+            "name": "Gerade Verbindung mit Pfeil 12",
+            "shape_type": "LINE (9)",
+            "left": 10187565,
+            "top": 3016202,
+            "width": 5,
+            "height": 649970,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 11,
+        "shape_count": 6,
+        "notes": [
+          "klares zielverhalten kann z,b, sein, dass die miv nutzung in einer siedlung vermindert werden muss um die stellplatznutzung zu verringern\n\ngibt schon klare fragesets in den auswertungen von Bamberg",
+          "11"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 1",
+            "shape_type": "PICTURE (13)",
+            "left": 2399,
+            "top": 0,
+            "width": 12187201,
+            "height": 6858000,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 365125,
+            "width": 10515600,
+            "height": 1325563,
+            "rotation": 0.0,
+            "text": "umsetzung",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "umsetzung",
+                "runs": [
+                  {
+                    "text": "umsetzung",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 838200,
+            "top": 1825625,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "einordnung in die gruppen kann groben überblick verschaffen, gerade wenn ein klares zielverhalten im vordergrund steht\nmaßnahmen können phasenspezifisch gestaltet und pkw-captives erreicht werden\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 1,
+                "text": "einordnung in die gruppen kann groben überblick verschaffen, gerade wenn ein klares zielverhalten im vordergrund steht",
+                "runs": [
+                  {
+                    "text": "einordnung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " in die gruppen kann groben überblick verschaffen, gerade wenn ein klares zielverhalten im ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "vordergrund",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " steht",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 1,
+                "text": "maßnahmen können phasenspezifisch gestaltet und pkw-captives erreicht werden",
+                "runs": [
+                  {
+                    "text": "maßnahmen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " können phasenspezifisch gestaltet und ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "pkw",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "-captives erreicht werden",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 1,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textfeld 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 838200,
+            "top": 5934635,
+            "width": 10515600,
+            "height": 369332,
+            "rotation": 0.0,
+            "text": "morning session – verhalten und mobilität (2/3)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "morning session – verhalten und mobilität (2/3)",
+                "runs": [
+                  {
+                    "text": "morning",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "session",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " – verhalten und ",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": "mobilität",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  },
+                  {
+                    "text": " (2/3)",
+                    "bold": null,
+                    "italic": true,
+                    "underline": null,
+                    "font_name": "Poppins",
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 990600,
+            "top": 1978025,
+            "width": 10515600,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 6,
+            "name": "Inhaltsplatzhalter 6",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 990600,
+            "top": 1978025,
+            "width": 8553450,
+            "height": 4351338,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

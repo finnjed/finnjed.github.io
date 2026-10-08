@@ -1,0 +1,21 @@
+{
+  "cover": "cover.png",
+  "hovtitle": "Kurzinputs zu Themen des Mobilitätsmanagements",
+  "slides": [
+    {
+      "file": "1.mp4",
+      "title": "COM-B und SSBC",
+      "desc": "Kurzinput zu zwei Modellen, mit denen sich Voraussetzungen für Mobilitätsverhalten und Verhaltensänderungen einordnen lassen."
+    },
+    {
+      "file": "2.png",
+      "title": "Freie Geodaten in Mobilitätskonzepten",
+      "desc": "Beispiel eines GIS-Workflows für die Parkraumanalyse. Grün markierte Arbeitsschritte lassen sich automatisieren; rot markierte Schritte erfordern weiterhin eine manuelle Prüfung und Bearbeitung."
+    },
+    {
+      "file": "3.mp4",
+      "title": "Radverkehrssimulation",
+      "desc": "Kurzinput zur Simulation von Radverkehr und zur Gegenüberstellung von Analyse- und Planfällen."
+    }
+  ]
+}

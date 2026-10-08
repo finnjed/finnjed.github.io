@@ -1,0 +1,139 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-08T10:02:05.213526+00:00",
+  "source": {
+    "path": "export_argus/2026-07-27_Masterplan Heide_Abstimmung Mobilitäts- und Stellplatzkonzept.pdf",
+    "name": "2026-07-27_Masterplan Heide_Abstimmung Mobilitäts- und Stellplatzkonzept.pdf",
+    "extension": ".pdf",
+    "mime_type": "application/pdf",
+    "size_bytes": 753244,
+    "modified_timestamp": 1790347092.0,
+    "modified_iso": "2026-09-25T14:38:12+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "pdf",
+    "encrypted": false,
+    "metadata": {
+      "/Title": "",
+      "/Author": "Finn Jedding | ARGUS",
+      "/CreationDate": "D:20260925163810+02'00'",
+      "/ModDate": "D:20260925163810+02'00'",
+      "/Producer": "Microsoft® PowerPoint® für Microsoft 365",
+      "/Creator": "Microsoft® PowerPoint® für Microsoft 365"
+    },
+    "page_count": 13,
+    "total_extracted_characters": 16564,
+    "pages_without_extracted_text": [],
+    "possible_scan_pdf": false,
+    "pages": [
+      {
+        "page_number": 1,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 90,
+        "text": "                     03\n\nSammelgaragen -      Finanzierung und Betrieb\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n34",
+        "extraction_error": null
+      },
+      {
+        "page_number": 2,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1261,
+        "text": "Steckbriefe\n\n                                             Auf aktuelle Bsps. anpassen\n\n\n\n\n\n\n\n            Best Practice                                             Betreibermodell\n            Beispiele der\n            Finanzierung von                                                  öffentlich                   privat                   gemein-\n            Sammelgaragen auf                                                                                                       schaftlich\n            Privatgrund\n\n\n                                               Finanzierung\n\n\n                                                   kommunal                   Potsdam                Zollhafen Mainz                 Vauban\n\n\n\n\n\n\n                                                      privat,\n                                                     Investor                                            Biehlweg                   Merwede\n\n\n\n\n\n\n                                                    Bauträger\n                                                         /                                         Othmarscher Gärten             Stellwerk 60\n                                                EigentümerInnen\n\n\n\n\n\n                           35\n\n\n\n\nStellplatzleitfaden SH:",
+        "extraction_error": null
+      },
+      {
+        "page_number": 3,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1179,
+        "text": "            Ausgangslage:\n        hohe nachfrage, d.h.\n Stellplatzveräußerung sollte kein\nProblem sein ->  privat organisierte\n\n\n\n\n\n                                                    Finanzierung und Betrieb\n                                                    Finanzierungsoptionen\n\n                                                              1\n\n                                                                  Baufeldbezogen\n\n                                                                    Festsetzen des\n                                                                  Betreibermodells,\n                                                                Vorgaben im B-Plan\n\n                                                               Maßgeblich entwickelt\n                                                                und betrieben durch\n                                                                  Baufeldentwickler\n\n                                                               vgl. Biehlweg Hamburg\n\n                                                        Ein Entwickelnder pro Baufeld\n\n\n\n                                                                  36",
+        "extraction_error": null
+      },
+      {
+        "page_number": 4,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 900,
+        "text": "Variante 1\nBaufeldbezogen\n\n\nAufgaben der Stadt Heide               Vorgaben zur Gestaltung und\n                                       Bedarfe im Rahmen der\n                                       Konzeptvergabe und im B-Plan\nFinanzierung durch…                    Bauherr\n\n\n\nBetrieb                                Bauherr (z.B. durch Facility-\n                                       Management oder Betreiber)\n\nFinanzielles Risiko liegt bei…         Bauherr\n\n\nEinfluss seitens der Stadt             Gering (Kontrolle der Vergaben)\n\n\nBeteiligungsaufwand der Stadt          gering\n\n\nAnwendungsfall                         Ein Bauherr entwickelt gesamten\n                                       Bereich für einer Sammelgarage\n                                                                                                                                                            1\n\n                  37",
+        "extraction_error": null
+      },
+      {
+        "page_number": 5,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 953,
+        "text": "         modell 1\n\n\n\n\n\n\n\nBest Practice\nGarage am Biehlweg,\nHamburg\nDie Wohnungsgenossen-\nschaft entwickelt die Wohn-\nungen und übernimmt\nzugleich Finanzierung,\nEigentum und Unterhaltung\nder zugehörigen Garage;\nPlanung und Bau vergibt sie\nan einen Generalunter-\nnehmer. Die Stellplätze\nbleiben im Bestand der\nGenossenschaft und\nwerden dauerhaft an die\neigenen Mietenden\nvermietet.\n\n\n\n                                                                                                                            Finanzierung\n                                                                                                                                Privat\n\n                                                                                                                          Betreibermodell\n\n Lage in Hamburg                                                                                                                Privat\n\n\n\n\n                 38",
+        "extraction_error": null
+      },
+      {
+        "page_number": 6,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1820,
+        "text": "            Ausgangslage:\n        hohe nachfrage, d.h.\n Stellplatzveräußerung sollte kein\nProblem sein ->  privat organisierte\n\n\n\n\n\n                                                    Finanzierung und Betrieb\n                                                    Finanzierungsoptionen\n\n                                                             1                                           2\n\n                                                                  Baufeldbezogen                            Privat organisiert\n\n                                                                   Festsetzen des                            Bau und Betrieb\n                                                                 Betreibermodells,                           finanziert durch\n                                                                Vorgaben im B-Plan                       Eigentümer, separater\n                                                                                                              Betreiber (aus\n                                                              Maßgeblich entwickelt                         Konzeptvergabe)\n                                                               und betrieben durch                         unterhält Garagen\n                                                                 Baufeldentwickler\n                                                                                                            vgl. Brunsheide /\n                                                                    vgl. Hamburg                                 Potsdam\n\n                                                        Ein Entwickelnder pro Baufeld                             Mehrere Entwickelnde pro Baufeld\n\n\n\n                                                                 39",
+        "extraction_error": null
+      },
+      {
+        "page_number": 7,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1667,
+        "text": "   Annahme: Baufelder\n     sind auf mehrere\nEigentümerInnen/Bauhe\n      rrInnen gestreut\n\n\n\n\n\n\n\n\n\n                      Variante 2\n                      Privat organisiert\n\n\n                      Aufgaben der Stadt Heide              Vorgaben zur Gestaltung und\n                                                            Bedarfe im Rahmen der\n                                                            Konzeptvergabe und im B-Plan\n                      Finanzierung durch…                   Eigentümergemeinschaft /\n                                                            privater Entwicklungsträger\n\n                      Betrieb                               Durch Eigentümergemeinschaft\n                                                            organisiert (z.B. Facility-\n                                                            Management oder Betreiber)\n                      Finanzielles Risiko liegt bei…        Eigentümergemeinschaft /\n                                                            privater Träger\n\n                      Einfluss seitens der Stadt            Gering (Kontrolle der Vergaben)\n\n\n                      Beteiligungsaufwand der Stadt         gering\n\n\n                      Anwendungsfall                        Bei kleinteiligen Entwicklungen –\n                                                            mehrere Eigentümer:innen je\n                                                            Sammelgarage\n                                                                                                                                                                           2\n\n                                        40",
+        "extraction_error": null
+      },
+      {
+        "page_number": 8,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1126,
+        "text": "                    modell 2; hier aber noch viel unklar, unter anderem,\n                    wer erwerber und betreiber sein wird; relevant ist\n                    aber die organisation, in der sich die investorInnen\n                    auf ein garagen-sonderlos bewerben\n\n\n\n\n\n\n\n\n\n\n\nBest Practice\nBrunsheide,\nLeopoldshöhe\nDie Gemeinde vergibt die\nQuartiersgarage als eigenes\nSonderlos an einen privaten\nInvestor. Dieser errichtet die\nGarage, bündelt die\nStellplatzbedarfe mehrerer\nWohnungsbauprojekte und\nvermietet die Stellplätze an\ndie späteren Nutzenden.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLage in Leopoldshöhe                                                                                                    Finanzierung\n                                                                                                                            Privat\n\n                                                                                                                      Betreibermodell\n                                                                                                                            Privat\n\n\n\n\n                41",
+        "extraction_error": null
+      },
+      {
+        "page_number": 9,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1166,
+        "text": "                                  modell 2:\n                                  vergleichbarkeit finanzierung gegeben,\n                                  beauftragung durch stadt gegeben, aber durch\n                                  stadt konstruierter entwicklungsträger: potsdam\n                                  krampnitz quartiersgaragen\n\n\n\n\n\n\n\n\nBest Practice\nKrampnitz, Potsdam\n\n\nStadt Potsdam setzt Rah-\nmen für Quartiersgaragen-\nentwicklung im Viertel\nKrampnitz. Private Entwick-\nlungsgesellschaft baut im\nAuftrag des kommunalen\nEntwicklungsträgers aus\nBaukostenzuschüssen der\nInvestoren und Eigenin-\nvestitionen.\n\n\n\n\n\n\n\n\n                                                                                                                    Finanzierung\n                                                                                                               Kommunal/Eigentümer\n\n                                                                                                                  Betreibermodell\n\nLage in Potsdam                                                                                                      Kommunal\n\n\n\n\n                42",
+        "extraction_error": null
+      },
+      {
+        "page_number": 10,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 2121,
+        "text": "            Ausgangslage:\n        hohe nachfrage, d.h.\n Stellplatzveräußerung sollte kein\nProblem sein ->  privat organisierte\n\n\n\n\n\n                                                    Finanzierung und Betrieb\n                                                    Finanzierungsoptionen\n\n                                                              1                                           2                                   3\n\n                                                                  Baufeldbezogen                            Privat organisiert                 Kommunale Initiative\n\n                                                                   Festsetzen des                            Bau und Betrieb                 Bau und Unterhalt erfolgt\n                                                                  Betreibermodells,                          finanziert durch                    durch kommunale\n                                                                Vorgaben im B-Plan                       Eigentümer, separater                         Initiative\n                                                                                                              Betreiber (aus\n                                                               Maßgeblich entwickelt                        Konzeptvergabe)                      Finanzierung über\n                                                                und betrieben durch                        unterhält Garagen                        Fremdkapital\n                                                                 Baufeldentwickler\n                                                                                                             vgl. Brunsheide /                     vgl. Stellwerk60\n                                                                    vgl. Hamburg                                 Potsdam\n\n                                                        Ein Entwickelnder pro Baufeld                              Mehrere Entwickelnde pro Baufeld\n\n\n\n                                                                  43",
+        "extraction_error": null
+      },
+      {
+        "page_number": 11,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1112,
+        "text": "Variante 3\nKommunale Initiative\n\n\nAufgaben der Stadt Heide                Städtisches Konstrukt, z.B. durch\n                                        städtische Gesellschaft / Verein\n\nFinanzierung durch…                     Fremdkapital, Stellplazablösen\n\n\n\nBetrieb                                 Stadt Heide / städtische\n                                        Gesellschaft\n\nFinanzielles Risiko liegt bei…          Stadt Heide, Risiko kann\n                                        vertraglich auf Eigentümer:innen\n                                        verteilt werden\n\nEinfluss seitens der Stadt              Hoch (gesamtes Verfahren\n                                        begleitet)\n\nBeteiligungsaufwand der Stadt           Hoch\n\n\nAnwendungsfall                          Bei kleinteiligen Entwicklungen –\n                                        mehrere Eigentümer:innen je\n                                        Sammelgarage\n                                                                                                                                                               3\n\n                   44",
+        "extraction_error": null
+      },
+      {
+        "page_number": 12,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 1050,
+        "text": "                                                              modell  3\n\n\n\n\n\n\n\nBest Practice\nStellwerk 60, Köln\n\n\nDie Stadt bündelt die Stell-\nplätze in einer Quartiersga-\nrage, die ein Projektentwick-\nler errichtet und anschlie-\nßend an einzelne Stellplatz-\neigentümer verkauft.\nDiese bilden eine Eigen-\ntümergemeinschaft,\nfinanzieren Betrieb und\nRücklagen gemeinsam und\nbeauftragen eine\nHausverwaltung mit\nBewirtschaftung und\nWartung.\n\n\n\n                                                                                                                                  Finanzierung\n                                                                                                                                       Privat\n\n                                                                                                                                Betreibermodell\n                                                                                                                               gemeinschaftlich\n\n\n\nLage in Köln\n\n                 45",
+        "extraction_error": null
+      },
+      {
+        "page_number": 13,
+        "width_points": 816.36,
+        "height_points": 459.24,
+        "character_count": 2119,
+        "text": "            Ausgangslage:\n        hohe nachfrage, d.h.\n Stellplatzveräußerung sollte kein\nProblem sein ->  privat organisierte\n\n\n\n\n\n                                                    Finanzierung und Betrieb\n                                                    Finanzierungsoptionen\n\n                                                             1                                            2                                   3\n\n                                                                  Baufeldbezogen                            Privat organisiert                Kommunale Initiative\n\n                                                                   Festsetzen des                            Bau und Betrieb                     Bau und Unterhalt\n                                                                 Betreibermodells,                           finanziert durch                     finanziert durch\n                                                                Vorgaben im B-Plan                       Eigentümer, separater                 kommunale Initiative\n                                                                                                              Betreiber (aus\n                                                              Maßgeblich entwickelt                         Konzeptvergabe)                      Finanzierung über\n                                                               und betrieben durch                         unterhält Garagen                        Fremdkapital\n                                                                 Baufeldentwickler\n                                                                                                            vgl. Brunsheide /                      vgl. Stellwerk60\n                                                                    vgl. Hamburg                                 Potsdam\n\n                                                        Ein Entwickelnder pro Baufeld                             Mehrere Entwickelnde pro Baufeld\n\n\n\n                                                                  46",
+        "extraction_error": null
+      }
+    ]
+  }
+}

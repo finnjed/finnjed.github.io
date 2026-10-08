@@ -1,0 +1,31 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-08T10:03:15.107545+00:00",
+  "source": {
+    "path": "content/kasten9/cover.png",
+    "name": "cover.png",
+    "extension": ".png",
+    "mime_type": "image/png",
+    "size_bytes": 157210,
+    "modified_timestamp": 1791416631.9213722,
+    "modified_iso": "2026-10-07T23:43:51.921372+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "image",
+    "image_format": "PNG",
+    "mode": "RGB",
+    "width": 1200,
+    "height": 675,
+    "frame_count": 1,
+    "image_info": {},
+    "exif": {},
+    "ocr_enabled": true,
+    "ocr_language": "deu+eng",
+    "ocr_text": "capability\n\nreflective\n\nS\n\nmotivation\n\n;\n\nsocial\n\nopportunity\n\n»\n\n=a\n\n",
+    "ocr_error": null
+  }
+}

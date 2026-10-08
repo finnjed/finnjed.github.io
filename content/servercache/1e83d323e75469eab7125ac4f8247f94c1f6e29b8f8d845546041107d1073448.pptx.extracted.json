@@ -1,0 +1,1829 @@
+{
+  "schema": "local-folder-streamer-extraction",
+  "schema_version": 1,
+  "extraction_version": "1.0.0",
+  "extracted_at": "2026-10-07T23:43:20.156268+00:00",
+  "source": {
+    "path": "export_argus/morning sessions/2026-07-10_FreieGeodatenUndMobilitätskonzepte.pptx",
+    "name": "2026-07-10_FreieGeodatenUndMobilitätskonzepte.pptx",
+    "extension": ".pptx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size_bytes": 9160840,
+    "modified_timestamp": 1789736324.0,
+    "modified_iso": "2026-09-18T12:58:44+00:00",
+    "readable": true,
+    "writable": true
+  },
+  "extracted_content": {
+    "format": "powerpoint",
+    "core_properties": {
+      "title": "",
+      "subject": "",
+      "author": "Finn Jedding | ARGUS",
+      "keywords": "",
+      "comments": "",
+      "last_modified_by": "Finn Jedding | ARGUS",
+      "created": "2026-07-09T12:47:36",
+      "modified": "2026-09-18T12:58:43",
+      "revision": 3,
+      "category": "",
+      "content_status": "",
+      "identifier": "",
+      "language": "",
+      "version": ""
+    },
+    "slide_width": 10367963,
+    "slide_height": 5832475,
+    "slide_count": 16,
+    "slides": [
+      {
+        "slide_number": 1,
+        "shape_count": 5,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 360000,
+            "top": 1420380,
+            "width": 6370809,
+            "height": 288000,
+            "rotation": 0.0,
+            "text": "Morning Session 10.07.2026",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Morning Session 10.07.2026",
+                "runs": [
+                  {
+                    "text": "Morning Session 10.07.2026",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 359999,
+            "top": 1080000,
+            "width": 6370810,
+            "height": 288000,
+            "rotation": 0.0,
+            "text": "Freie Geodaten & Mobilitätskonzepte",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Freie Geodaten & Mobilitätskonzepte",
+                "runs": [
+                  {
+                    "text": "Freie Geodaten & Mobilitätskonzepte",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 360000,
+            "top": 4971497,
+            "width": 6400828,
+            "height": 500979,
+            "rotation": 0.0,
+            "text": "Stand: 09.07.2026\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Stand: 09.07.2026",
+                "runs": [
+                  {
+                    "text": "Stand: ",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "09.07.2026",
+                    "bold": false,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": "+mn-lt",
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Freihandform: Form 1",
+            "shape_type": "FREEFORM (5)",
+            "left": 6727825,
+            "top": 3376976,
+            "width": 3251200,
+            "height": 2095500,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Ellipse 2",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 5421314,
+            "top": 3637326,
+            "width": 1835150,
+            "height": 1835150,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 2,
+        "shape_count": 2,
+        "notes": [
+          "-Status Quo\n-Zwei Projekte aus Berlin",
+          "2"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 296598,
+            "top": 217057,
+            "width": 9847526,
+            "height": 725333,
+            "rotation": 0.0,
+            "text": "Überblick",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Überblick",
+                "runs": [
+                  {
+                    "text": "Überblick",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 355600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Tabelle 5",
+            "shape_type": "TABLE (19)",
+            "left": 215900,
+            "top": 973575,
+            "width": 9928224,
+            "height": 1854200,
+            "rotation": 0.0,
+            "table": {
+              "row_count": 5,
+              "column_count": 3,
+              "rows": [
+                {
+                  "row_number": 1,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "01"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "Anwendung bisher"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "row_number": 2,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "02"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "Good Practice(TILDA)"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "row_number": 3,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "03"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "Anwendungsfall 1 – Parkraumanalyse"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "row_number": 4,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "04"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "Anwendungsfall 2 – POI-Mapping"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "row_number": 5,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "05"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "Verschneidungsmöglichkeiten"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "slide_number": 3,
+        "shape_count": 2,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 1994961,
+            "width": 9932193,
+            "height": 720000,
+            "rotation": 0.0,
+            "text": "01",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "01",
+                "runs": [
+                  {
+                    "text": "01",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 3113827,
+            "width": 9928225,
+            "height": 432000,
+            "rotation": 0.0,
+            "text": "Welche freien Geodaten werden bereits wo verwendet?",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Welche freien Geodaten werden bereits wo verwendet?",
+                "runs": [
+                  {
+                    "text": "Welche freien Geodaten werden bereits wo verwendet?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 4,
+        "shape_count": 3,
+        "notes": [
+          "OGD und OSM\nOGD: öffentliche und frei zugängliche Datenbestände der öfftl. Verwaltung /Behörden, die von Fachpersonen erstellt werden. \nvorteile\nkonsistenter;, geringere fehleranfälligkeit; - \nnachteile\nentstehen mit einem mal, keine laufende aktualisierung, dafür begrenzt auf den umfang der jeweiligen institution\n\nOSM\n- ist eine riesige freie Datenbank, in der theoretisch jeder seine Daten speichern kann\n-wird unter anderem für Katastrophenschutz, Lieferdienste, autonome Fahrzeuge verwendet\n-ist ein soziokulturelles Abbild der Welt: Dinge wie barrierefreiheit, die in Google Maps ignoriert werden, werden hier eingetragen (open folksomy)\n\nOSM Daten sind in MOBs Grundlage für\n\nKartendarstellungen (Hintergrundkarte, POIs, Tags …)\nBerechnungen:\nErreichbarkeit\nIndikatoren (Lebendige Stadt, Stellplätze, Gebietsmarkierungen)\nRecherchen (Radnetz, Angebot)\nPrimärquelle von OpenRouteService, Studien zur Mobilität, Projekten wie pfaedle\n\nWeitere freie Daten aus z.B. Geoportal Hamburg Grundlage für u.a.\n\nDarstellung von Mobilitätsgüte über\nVerortung StadtRAD Stationen\n GTFS-Datenauswertung\nMikromobilität\nPOIs generell\n3D-Visualisierungen, Recherchen (Lage in der Stadt)\nBerechnungs- und Verarbeitungsdaten (Gemgrenzen)",
+          "4"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 534261,
+            "width": 4802187,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 4",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 5183981,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Gruppieren 35",
+            "shape_type": "GROUP (6)",
+            "left": 957486,
+            "top": 1361757,
+            "width": 8620854,
+            "height": 3108354,
+            "rotation": 0.0,
+            "group_shapes": [
+              {
+                "shape_number": 1,
+                "name": "Grafik 13",
+                "shape_type": "PICTURE (13)",
+                "left": 957486,
+                "top": 1369738,
+                "width": 2788875,
+                "height": 3092997,
+                "rotation": 0.0
+              },
+              {
+                "shape_number": 2,
+                "name": "Grafik 15",
+                "shape_type": "PICTURE (13)",
+                "left": 2967165,
+                "top": 1369738,
+                "width": 3424059,
+                "height": 3100372,
+                "rotation": 0.0
+              },
+              {
+                "shape_number": 3,
+                "name": "Grafik 21",
+                "shape_type": "PICTURE (13)",
+                "left": 5056209,
+                "top": 1369739,
+                "width": 2788875,
+                "height": 3100372,
+                "rotation": 0.0
+              },
+              {
+                "shape_number": 4,
+                "name": "Grafik 25",
+                "shape_type": "PICTURE (13)",
+                "left": 7025059,
+                "top": 1361757,
+                "width": 2553281,
+                "height": 3108354,
+                "rotation": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 5,
+        "shape_count": 2,
+        "notes": [
+          "Webanwendung, die Inhalte aus ÓpenStreetmap und Government data aufbereitet;\n\n\nCloudlösung für verkehrsplanerische Geodaten auf Basis aufbereiteter OpenStreetMap-Daten. \nTeamfähig und auswertbar, z. B. für Abfragen zu Parkplätzen, Radinfrastruktur oder Verkehrsflächen\nStandardisierte Datengrundlage für Kommunen, Landkreise und Bundesländer zur gemeinsamen Pflege und Darstellung.\n\nParkraumkarte TILDA\n\nVisualisiert Parkraum im Straßenraum: Lage, Art und Anzahl der Stellplätze. (fixmycity.de)\nErmöglicht Auswertungen, z. B. zu Stellplatzzahlen, Bewirtschaftung oder Umnutzungspotenzialen. (parkraum.osm-verkehrswende.org)\nUnterstützt Pflege und Abstimmung durch aktuelle Daten, Kommentare und Teamarbeit in der Karte\n\n\nhttps://tilda-geo.de/regionen/parkraum-berlin?map=15.2/52.5002/13.3604&config=1p5jpsu.i19t0l.2zus&v=2\n\n\n\n\nAußerdem:\n\nhttps://parkraum.osm-verkehrswende.org/project-prototype-neukoelln/?map=parkingmap#16/52.4705/13.4343\n\nParkraum aus OSM ableiten: Zunächst werden straßenbegleitende Parkmöglichkeiten über das OSM-parking:lane-Schema sowie weitere relevante Objekte wie Einfahrten, Querungen, Bushaltestellen, Bäume, Poller oder Fahrradständer erfasst; daraus werden in GIS/Python nutzbare Parkstreifensegmente erzeugt und rechtliche bzw. bauliche Nicht-Parkbereiche abgezogen.\nStellplatzkapazität berechnen: Für zusammenhängende Parkstreifen wird die verfügbare Länge durch eine angenommene Fahrzeuglänge bzw. den Stellplatzabstand geteilt; zusätzlich können Stellplätze abseits des Straßenraums wie Parkplätze, Garagen, Tiefgaragen oder Parkhäuser einbezogen werden, soweit sie erhoben oder aus anderen Geodaten plausibilisiert wurden.\nMit Kfz-Bestand im Nahbereich vergleichen: Für jeden Wohnort bzw. Rasterpunkt wird im fußläufigen Nahbereich von ca. 300–350 m die Zahl verfügbarer Stellplätze mit den dort gemeldeten Kfz ins Verhältnis gesetzt; daraus ergibt sich die Kennzahl Stellplätze pro Kfz im Nahbereich, also z. B. ob rechnerisch weniger, gleich viele oder mehr Stellplätze als Fahrzeuge vorhanden sind.",
+          "5"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 1994961,
+            "width": 9932193,
+            "height": 720000,
+            "rotation": 0.0,
+            "text": "02",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "02",
+                "runs": [
+                  {
+                    "text": "02",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 3785392,
+            "top": 2916237,
+            "width": 2793208,
+            "height": 717358,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 6,
+        "shape_count": 5,
+        "notes": [
+          "6"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "TILDA",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "TILDA",
+                "runs": [
+                  {
+                    "text": "TILDA",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Grafik 6",
+            "shape_type": "PICTURE (13)",
+            "left": 1354876,
+            "top": 0,
+            "width": 7193354,
+            "height": 4622292,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 4,
+            "name": "Grafik 7",
+            "shape_type": "PICTURE (13)",
+            "left": 5381244,
+            "top": 2679740,
+            "width": 4886581,
+            "height": 3082745,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 5,
+            "name": "Textplatzhalter 2",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 514133,
+            "top": 3839382,
+            "width": 4867112,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "https://fixmycity.de/tilda-parkraum/\n",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "https://fixmycity.de/tilda-parkraum/",
+                "runs": [
+                  {
+                    "text": "https://fixmycity.de/tilda-parkraum/",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 228600
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 7,
+        "shape_count": 5,
+        "notes": [
+          "7"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Außerdem\t",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Außerdem\t",
+                "runs": [
+                  {
+                    "text": "Außerdem\t",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 2",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 321562,
+            "top": 3847827,
+            "width": 4741736,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "https://strassenraumkarte.osm-berlin.org",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "https://strassenraumkarte.osm-berlin.org",
+                "runs": [
+                  {
+                    "text": "https://strassenraumkarte.osm-berlin.org",
+                    "bold": null,
+                    "italic": null,
+                    "underline": true,
+                    "font_name": null,
+                    "font_size": 228600
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Grafik 5",
+            "shape_type": "PICTURE (13)",
+            "left": 5549583,
+            "top": 2395728,
+            "width": 4496818,
+            "height": 3217290,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 5,
+            "name": "Grafik 9",
+            "shape_type": "PICTURE (13)",
+            "left": 1600200,
+            "top": 380010,
+            "width": 3818149,
+            "height": 3349664,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 8,
+        "shape_count": 4,
+        "notes": [
+          "8"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Äquivalent Hamburg",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Äquivalent Hamburg",
+                "runs": [
+                  {
+                    "text": "Äquivalent Hamburg",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 2",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Grafik 5",
+            "shape_type": "PICTURE (13)",
+            "left": 2451100,
+            "top": -10910,
+            "width": 7916863,
+            "height": 5799768,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 9,
+        "shape_count": 2,
+        "notes": [
+          "9"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 1994961,
+            "width": 9932193,
+            "height": 720000,
+            "rotation": 0.0,
+            "text": "03",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "03",
+                "runs": [
+                  {
+                    "text": "03",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 3113827,
+            "width": 9928225,
+            "height": 432000,
+            "rotation": 0.0,
+            "text": "Parkraumanalyse",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Parkraumanalyse",
+                "runs": [
+                  {
+                    "text": "Parkraumanalyse",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 10,
+        "shape_count": 1,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 2208213,
+            "top": 625423,
+            "width": 5951538,
+            "height": 4581630,
+            "rotation": 0.0
+          }
+        ]
+      },
+      {
+        "slide_number": 11,
+        "shape_count": 5,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Pfeil: nach rechts 2",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 7597457,
+            "top": 1433987,
+            "width": 2565400,
+            "height": 2964499,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 1",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 7513637,
+            "top": 2390959,
+            "width": 2649220,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Wie kommt man davon weg, die Parkflächen manuell in Photoshop zu kartieren?\u000bWie lassen sich möglichst viele Schritte automatisieren?",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Wie kommt man davon weg, die Parkflächen manuell in Photoshop zu kartieren?\u000bWie lassen sich möglichst viele Schritte automatisieren?",
+                "runs": [
+                  {
+                    "text": "Wie kommt man davon weg, die Parkflächen manuell in Photoshop zu kartieren?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  },
+                  {
+                    "text": "Wie lassen sich möglichst viele Schritte automatisieren?",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885189,
+            "width": 2160587,
+            "height": 1217612,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          },
+          {
+            "shape_number": 5,
+            "name": "Tabelle 7",
+            "shape_type": "TABLE (19)",
+            "left": 407987,
+            "top": 268446,
+            "width": 6911976,
+            "height": 5247640,
+            "rotation": 0.0,
+            "table": {
+              "row_count": 3,
+              "column_count": 3,
+              "rows": [
+                {
+                  "row_number": 1,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": ""
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "+"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": "-"
+                    }
+                  ]
+                },
+                {
+                  "row_number": 2,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "Manuell"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "schnell\nniederschwelliger bearbeitbar\nNiedrige Einstiegshürde\n\n\n"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": "Keine echten GIS-Daten \nInformationen kontextabhägig\nkeine automatisierte Auswertung\nSymbologie nicht automatisch übertragbar"
+                    }
+                  ]
+                },
+                {
+                  "row_number": 3,
+                  "cells": [
+                    {
+                      "column_number": 1,
+                      "text": "Digital"
+                    },
+                    {
+                      "column_number": 2,
+                      "text": "nachnutzbar\ngeeignet um präzise und schnell einzutragen (Tools)\nkönnen mit gut gepflegten Daten aus OSM bzw. Geoportal kombiniert und gleich dargestellt werden\nProjektintegration (QGIS)"
+                    },
+                    {
+                      "column_number": 3,
+                      "text": "Aufwand der Einarbeitung\nSemi-Flexibel bzw. benötigt teils Nachbearbeitung in Grafiksoftware"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "slide_number": 12,
+        "shape_count": 14,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Grafik 2",
+            "shape_type": "PICTURE (13)",
+            "left": 3752850,
+            "top": 3093188,
+            "width": 897743,
+            "height": 925623,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 2,
+            "name": "Rechteck 3",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 4726402,
+            "top": 1956538,
+            "width": 1492250,
+            "height": 838200,
+            "rotation": 0.0,
+            "text": "Parkplatzexport",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Parkplatzexport",
+                "runs": [
+                  {
+                    "text": "Parkplatzexport",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 152400
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Rechteck 4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 2675353,
+            "top": 1382602,
+            "width": 1797050,
+            "height": 463550,
+            "rotation": 0.0,
+            "text": "Untersuchungsgebiet,\nFilterbedingungen, …",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Untersuchungsgebiet,",
+                "runs": [
+                  {
+                    "text": "Untersuchungsgebiet",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  },
+                  {
+                    "text": ",",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "Filterbedingungen, …",
+                "runs": [
+                  {
+                    "text": "Filterbedingungen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  },
+                  {
+                    "text": ", …",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 139700
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Gerade Verbindung mit Pfeil 6",
+            "shape_type": "LINE (9)",
+            "left": 5472527,
+            "top": 2794738,
+            "width": 0,
+            "height": 1040662,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 5,
+            "name": "Gerade Verbindung mit Pfeil 8",
+            "shape_type": "LINE (9)",
+            "left": 4650593,
+            "top": 3556000,
+            "width": 821934,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 6,
+            "name": "Rechteck 10",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 4726402,
+            "top": 823802,
+            "width": 1492250,
+            "height": 463550,
+            "rotation": 0.0,
+            "text": "OSM-Datensatz",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "OSM-Datensatz",
+                "runs": [
+                  {
+                    "text": "OSM-Datensatz",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 152400
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 7,
+            "name": "Gerade Verbindung mit Pfeil 12",
+            "shape_type": "LINE (9)",
+            "left": 5466177,
+            "top": 1382602,
+            "width": 0,
+            "height": 463550,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 8,
+            "name": "Gerade Verbindung mit Pfeil 14",
+            "shape_type": "LINE (9)",
+            "left": 4472403,
+            "top": 1614377,
+            "width": 939799,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 9,
+            "name": "Rechteck 22",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 4783552,
+            "top": 3923561,
+            "width": 1492250,
+            "height": 750040,
+            "rotation": 0.0,
+            "text": "Darstellungsoptionen (Zusammenzählen, Schilder, Legende …)",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Darstellungsoptionen (Zusammenzählen, Schilder, Legende …)",
+                "runs": [
+                  {
+                    "text": "Darstellungsoptionen (Zusammenzählen, Schilder, Legende …)",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 114300
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 10,
+            "name": "Rechteck 24",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 2709471,
+            "top": 829931,
+            "width": 1492250,
+            "height": 463550,
+            "rotation": 0.0,
+            "text": "Eintragen übriger Parkplätze mit Tags",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Eintragen übriger Parkplätze mit Tags",
+                "runs": [
+                  {
+                    "text": "Eintragen übriger Parkplätze mit Tags",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 133350
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 11,
+            "name": "Gerade Verbindung mit Pfeil 26",
+            "shape_type": "LINE (9)",
+            "left": 4201721,
+            "top": 1055577,
+            "width": 524681,
+            "height": 0,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 12,
+            "name": "Rechteck 31",
+            "shape_type": "AUTO_SHAPE (1)",
+            "left": 4802602,
+            "top": 4988884,
+            "width": 1492250,
+            "height": 508739,
+            "rotation": 0.0,
+            "text": "Manuelle Anpassungen",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Manuelle Anpassungen",
+                "runs": [
+                  {
+                    "text": "Manuelle Anpassungen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 114300
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 13,
+            "name": "Gerade Verbindung mit Pfeil 33",
+            "shape_type": "LINE (9)",
+            "left": 5510627,
+            "top": 4775200,
+            "width": 0,
+            "height": 152400,
+            "rotation": 0.0
+          },
+          {
+            "shape_number": 14,
+            "name": "Titel 1",
+            "shape_type": "TEXT_BOX (17)",
+            "left": 215900,
+            "top": 215999,
+            "width": 2159001,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Parkraumanalyse GIS",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Parkraumanalyse GIS",
+                "runs": [
+                  {
+                    "text": "Parkraumanalyse GIS",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 13,
+        "shape_count": 2,
+        "notes": [
+          "13"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 1994961,
+            "width": 9932193,
+            "height": 720000,
+            "rotation": 0.0,
+            "text": "04",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "04",
+                "runs": [
+                  {
+                    "text": "04",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 3113827,
+            "width": 9928225,
+            "height": 432000,
+            "rotation": 0.0,
+            "text": "POI-Mapping",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "POI-Mapping",
+                "runs": [
+                  {
+                    "text": "POI-Mapping",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 14,
+        "shape_count": 2,
+        "notes": [
+          "14"
+        ],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 1994961,
+            "width": 9932193,
+            "height": 720000,
+            "rotation": 0.0,
+            "text": "05",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "05",
+                "runs": [
+                  {
+                    "text": "05",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Titel 3",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 3113827,
+            "width": 9928225,
+            "height": 432000,
+            "rotation": 0.0,
+            "text": "Verschneidungsmöglichkeiten",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Verschneidungsmöglichkeiten",
+                "runs": [
+                  {
+                    "text": "Verschneidungsmöglichkeiten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 15,
+        "shape_count": 3,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Titel 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 215900,
+            "top": 215999,
+            "width": 3373120,
+            "height": 636524,
+            "rotation": 0.0,
+            "text": "Verschneidungsmöglichkeiten",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Verschneidungsmöglichkeiten",
+                "runs": [
+                  {
+                    "text": "Verschneidungsmöglichkeiten",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 885188,
+            "width": 6940867,
+            "height": 3656331,
+            "rotation": 0.0,
+            "text": "OSM-Wegenetz + Carsharing = Gehzeit zu Carsharing-Fahrzeugen.\nOSM-Radnetz + Unfall-/Konfliktdaten = sichere Routen und Lücken.\nMeldemichel + Radnetz Hamburg + OSM = Ausgangsinfos Ortsbegehung\nOSM-Steigungen/Oberflächen/Barrieren + Rad-Isochronen = realistische Rad-Erreichbarkeit.\nStadtRadStationen (+Auslastung) + OSM = Potenzial Mietradstation\n…",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "OSM-Wegenetz + Carsharing = Gehzeit zu Carsharing-Fahrzeugen.",
+                "runs": [
+                  {
+                    "text": "OSM-Wegenetz + Carsharing = Gehzeit zu Carsharing-Fahrzeugen.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "OSM-Radnetz + Unfall-/Konfliktdaten = sichere Routen und Lücken.",
+                "runs": [
+                  {
+                    "text": "OSM-Radnetz + Unfall-/Konfliktdaten = sichere Routen und Lücken.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 3,
+                "level": 0,
+                "text": "Meldemichel + Radnetz Hamburg + OSM = Ausgangsinfos Ortsbegehung",
+                "runs": [
+                  {
+                    "text": "Meldemichel",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  },
+                  {
+                    "text": " + Radnetz Hamburg + OSM = Ausgangsinfos Ortsbegehung",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 4,
+                "level": 0,
+                "text": "OSM-Steigungen/Oberflächen/Barrieren + Rad-Isochronen = realistische Rad-Erreichbarkeit.",
+                "runs": [
+                  {
+                    "text": "OSM-Steigungen/Oberflächen/Barrieren + Rad-Isochronen = realistische Rad-Erreichbarkeit.",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 5,
+                "level": 0,
+                "text": "StadtRadStationen (+Auslastung) + OSM = Potenzial Mietradstation",
+                "runs": [
+                  {
+                    "text": "StadtRadStationen",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  },
+                  {
+                    "text": " (+Auslastung) + OSM = Potenzial Mietradstation",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 6,
+                "level": 0,
+                "text": "…",
+                "runs": [
+                  {
+                    "text": "…",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": 177800
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 214313,
+            "top": 4868221,
+            "width": 2160587,
+            "height": 377546,
+            "rotation": 0.0,
+            "text": "",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "",
+                "runs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_number": 16,
+        "shape_count": 4,
+        "notes": [],
+        "shapes": [
+          {
+            "shape_number": 1,
+            "name": "Textplatzhalter 4",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3909967,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Finn Jedding",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Finn Jedding",
+                "runs": [
+                  {
+                    "text": "Finn Jedding",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 2,
+            "name": "Textplatzhalter 5",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 3722377,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Ansprechpartner:in",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Ansprechpartner:in",
+                "runs": [
+                  {
+                    "text": "Ansprechpartner:in",
+                    "bold": true,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 3,
+            "name": "Textplatzhalter 6",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4408418,
+            "width": 3991046,
+            "height": 510715,
+            "rotation": 0.0,
+            "text": "studio@argus-hh.de | +49 (40) 309 709 0\nargus-studio.de",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "studio@argus-hh.de | +49 (40) 309 709 0",
+                "runs": [
+                  {
+                    "text": "studio@argus-hh.de | +49 (40) 309 709 0",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              },
+              {
+                "paragraph_number": 2,
+                "level": 0,
+                "text": "argus-studio.de",
+                "runs": [
+                  {
+                    "text": "argus-studio.de",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "shape_number": 4,
+            "name": "Textplatzhalter 7",
+            "shape_type": "PLACEHOLDER (14)",
+            "left": 3187990,
+            "top": 4220828,
+            "width": 3991046,
+            "height": 171227,
+            "rotation": 0.0,
+            "text": "Kontakt",
+            "paragraphs": [
+              {
+                "paragraph_number": 1,
+                "level": 0,
+                "text": "Kontakt",
+                "runs": [
+                  {
+                    "text": "Kontakt",
+                    "bold": null,
+                    "italic": null,
+                    "underline": null,
+                    "font_name": null,
+                    "font_size": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
